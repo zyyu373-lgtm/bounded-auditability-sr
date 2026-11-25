@@ -1,0 +1,49 @@
+﻿ref,year,title,publication,abstract,trial,follow_up,conflicts
+8,2022,Neoadjuvant nivolumab plus chemotherapy in resectable lung cancer,True,False,True,False,
+10,2023,Perioperative pembrolizumab for early-stage non-small-cell lung cancer,True,False,True,False,
+11,2023,LBA56 Overall survival in the KEYNOTE-671 study of perioperative pembrolizumab for early-stage non-small-cell lung cancer (NSCLC),False,True,False,True,D5: conference abstract included; follow-up publication
+21,2023,Perioperative nivolumab and chemotherapy in stage III non-small-cell lung cancer,True,False,True,False,
+22,2015,Induction chemoradiation in stage IIIA/N2 non-small-cell lung cancer: a phase 3 randomised trial,True,False,True,False,T1: radiotherapy/chemoradiation mentioned
+23,2023,Neoadjuvant camrelizumab plus platinum-based chemotherapy vs chemotherapy alone for Chinese patients with resectable stage IIIA or IIIB (T3N2) non-small cell lung cancer: the TD-FOREKNOW randomized clinical trial,True,False,True,False,
+24,2018,[A randomized controlled study of erlotinib versus pemetrexed combined with cisplatin in neoadjuvant therapy of stage IIIA EGFR-mutant lung adenocarcinoma],True,False,True,False,P4/T2: EGFR-variant-only or EGFR-targeted
+25,2022,Comprehensive 18F-FDG PET-based radiomics in elevating the pathological response to neoadjuvant immunochemotherapy for resectable stage III non-small-cell lung cancer: a pilot study,True,False,True,False,
+26,2019,Effect of docetaxel combined with cisplatin preoperative neoadjuvant chemotherapy for stage III NSCLC,True,False,True,False,
+27,2020,"Neoadjuvant chemotherapy and nivolumab in resectable non-small-cell lung cancer (NADIM): an open-label, multicentre, single-arm, phase 2 trial",True,False,True,False,
+28,2022,Overall survival and biomarker analysis of neoadjuvant nivolumab plus chemotherapy in operable stage IIIA non-small-cell lung cancer (NADIM phase II trial),True,False,False,True,follow-up publication
+29,2021,SAKK 16/14: durvalumab in addition to neoadjuvant chemotherapy in patients with stage IIIA(N2) non-small-cell lung cancer-a multicenter single-arm phase II trial,True,False,True,False,
+30,2023,"Interim analysis of the efficiency and safety of neoadjuvant PD-1 inhibitor (sintilimab) combined with chemotherapy (nab-paclitaxel and carboplatin) in potentially resectable stage IIIA/IIIB non-small cell lung cancer: a single-arm, phase 2 trial",True,False,True,False,
+31,2020,Efficacy of erlotinib as neoadjuvant regimen in EGFR-mutant locally advanced non-small cell lung cancer patients,True,False,True,False,P4/T2: EGFR-variant-only or EGFR-targeted
+32,2022,Neoadjuvant sintilimab and chemotherapy for resectable stage IIIA non-small cell lung cancer,True,False,True,False,
+33,2016,Combining antiangiogenic therapy with neoadjuvant chemotherapy increases treatment efficacy in stage IIIA (N2) non-small cell lung cancer without increasing adverse effects,True,False,True,False,T2?: targeted/antiangiogenic therapy mentioned
+34,2021,Phase 2 trial of neoadjuvant toripalimab with chemotherapy for resectable stage III non-small-cell lung cancer,True,False,True,False,
+35,2019,Erlotinib versus gemcitabine plus cisplatin as neoadjuvant treatment of stage IIIA-N2 EGFR-mutant non-small-cell lung cancer (EMERGING-CTONG 1103): a randomized phase II study,True,False,True,False,P4/T2: EGFR-variant-only or EGFR-targeted
+36,2023,Erlotinib versus gemcitabine plus cisplatin as neoadjuvant treatment of stage IIIA-N2 EGFR-mutant non-small-cell lung cancer: final overall survival analysis of the EMERGING-CTONG 1103 randomised phase II trial,True,False,False,True,P4/T2: EGFR-variant-only or EGFR-targeted; follow-up publication
+37,2021,Outcomes in 36 patients with stage IIIA-N2 squamous cell carcinoma of the lung treated with nab-paclitaxel plus carboplatin as neoadjuvant therapy: a prospective study from a single center,True,False,True,False,
+38,2023,Neoadjuvant chemotherapy plus nivolumab with or without ipilimumab in operable non-small cell lung cancer: the phase 2 platform NEOSTAR trial,True,False,True,False,
+39,2013,A randomised trial comparing preoperative to perioperative chemotherapy in early-stage non-small-cell lung cancer (IFCT 0002 trial),True,False,True,False,
+40,2023,Two vs three cycles of neoadjuvant sintilimab plus chemotherapy for resectable non-small-cell lung cancer: neoSCORE trial,True,False,True,False,
+41,2023,Perioperative durvalumab for resectable non-small-cell lung cancer,True,False,True,False,
+42,2018,Induction cisplatin docetaxel followed by surgery and erlotinib in non-small cell lung cancer,True,False,True,False,T2?: targeted/antiangiogenic therapy mentioned
+43,2016,Adaptive neoadjuvant chemotherapy guided by (18)F-FDG PET in resectable non-small cell lung cancers: the NEOSCAN trial,True,False,True,False,
+44,2013,Long-term results of a randomized controlled trial evaluating preoperative chemotherapy in resectable non-small cell lung cancer,True,False,True,False,
+45,2014,Phase II study of perioperative chemotherapy with cisplatin and pemetrexed in non-small-cell lung cancer,True,False,True,False,
+46,2022,"An open, observational, three-arm clinical study of 2-3 cycles of treatment as neoadjuvant therapy in operable locally advanced non-small cell lung cancer: an interim analysis",True,False,True,False,D2: observational study
+47,2018,Phase II trial of preoperative pemetrexed plus carboplatin in patients with stage IB-III nonsquamous non-small cell lung cancer (NSCLC),True,False,True,False,
+48,2023,"Neoadjuvant toripalimab plus platinum-paclitaxel chemotherapy in stage II-III non-small cell lung cancer: a single-center, single-arm, phase I study in China",True,False,True,False,
+49,2023,Brief report: acetaminophen reduces neoadjuvant chemoimmunotherapy efficacy in patients with NSCLC by promoting neutrophil extracellular trap formation: analysis from a phase 2 clinical trial,True,False,True,False,
+50,2015,Preoperative bronchial artery infusion chemotherapy in the treatment of stage Ilia (N2) non-small cell lung cancer,True,False,True,False,
+51,2021,Dose-dense paclitaxel and carboplatin as neoadjuvant chemotherapy for stage IIB/IIIA non-small cell lung cancer—a phase II trial,True,False,True,False,
+52,2019,Long term follow-up of neoadjuvant chemotherapy for non-small cell lung cancer (NSCLC) investigating early positron emission tomography (PET) scan as a predictor of outcome,True,False,True,False,
+53,2021,Neoadjuvant pembrolizumab with chemotherapy for the treatment of stage IIB-IIIB resectable lung squamous cell carcinoma,True,False,True,False,
+54,2020,"Neoadjuvant atezolizumab and chemotherapy in patients with resectable non-small-cell lung cancer: an open-label, multicentre, single-arm, phase 2 trial",True,False,True,False,
+55,2023,Association of early immune-related adverse events with treatment efficacy of neoadjuvant toripalimab in resectable advanced non-small cell lung cancer,True,False,True,False,
+56,2020,Neoadjuvant chemotherapy and avelumab in early stage resectable nonsmall cell lung cancer,True,False,True,False,
+57,2023,"Adebrelimab (SHR-1316) in combination with chemotherapy as perioperative treatment in patients with resectable stage II to III NSCLCs: an open-label, multicenter, phase 1b trial",True,False,True,False,
+58,2018,Surgical outcomes after neoadjuvant chemotherapy and ipilimumab for non-small cell lung cancer,True,False,True,False,
+59,2017,Safety and effectiveness of localized lung resection combined with neoadjuvant chemotherapy in the treatment of stage I-II non-small cell lung cancer,True,False,True,False,
+60,2022,"Safety and effectiveness of neoadjuvant PD-1 inhibitor (toripalimab) plus chemotherapy in stage II-III NSCLC (LungMate 002): an open-label, single-arm, phase 2 trial",True,False,True,False,
+61,2023,"LBA1 CheckMate 77T: phase III study comparing neoadjuvant nivolumab (NIVO) plus chemotherapy (chemo) vs neoadjuvant placebo plus chemo followed by surgery and adjuvant NIVO or placebo for previously untreated, resectable stage II–IIIb NSCLC",False,True,True,False,D5: conference abstract included
+62,2023,LBA58 pathological response to neoadjuvant tislelizumab (TIS) plus platinum-doublet (PtDb) chemotherapy (CT) in resectable stage II-IIIA NSCLC patients (pts) in the phase III (Ph3) RATIONALE-315 trial,False,True,True,False,D5: conference abstract included
+63,2023,Perioperative toripalimab + platinum-doublet chemotherapy vs chemotherapy in resectable stage II/III non-small cell lung cancer (NSCLC): interim event-free survival (EFS) analysis of the phase III Neotorch study,False,True,True,False,D5: conference abstract included
+64,2023,84O Neoadjuvant nivolumab (N) + platinum-doublet chemotherapy (C) for resectable NSCLC: 3-y update from CheckMate 816,False,True,False,True,D5: conference abstract included; follow-up publication
+65,2023,LBA57 neoadjuvant nivolumab (N)+ chemotherapy (C) in the phase III CheckMate 816 study: 3-y results by tumor PD-L1 expression,False,True,False,True,D5: conference abstract included; follow-up publication

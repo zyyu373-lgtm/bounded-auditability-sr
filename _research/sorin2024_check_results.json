@@ -1,0 +1,68 @@
+{
+  "review": {
+    "title": "Neoadjuvant Chemoimmunotherapy for NSCLC: A Systematic Review and Meta-Analysis",
+    "journal": "JAMA Oncology",
+    "year": 2024,
+    "doi": "10.1001/jamaoncol.2024.0057",
+    "pmid": "38512301",
+    "pmcid": "PMC10958389",
+    "prospero": "CRD42023392998",
+    "prisma": "2020"
+  },
+  "checks": {
+    "duplicate_ids": true,
+    "exact_contradictions": true,
+    "stage_assignment": true,
+    "pico_outcome_covered": false,
+    "workflow": {
+      "dual_independent_title_abstract": true,
+      "dual_independent_full_text": true,
+      "adjudication_available": true,
+      "inclusion_requires_full_text": true,
+      "exclusion_reason_required": false,
+      "inter_rater_reliability_reported": false
+    },
+    "publication_count_closure": true,
+    "item_count_closure": true
+  },
+  "counts": {
+    "criteria_total": 17,
+    "formalizability": {
+      "structured": 4,
+      "semantic": 5,
+      "rule": 8
+    },
+    "duplicates": 40,
+    "full_text_assessed": 83,
+    "publications_after_full_text": 42,
+    "items": 48,
+    "trial_items": 48
+  },
+  "semantic_findings": [
+    {
+      "id": "P2",
+      "value": "resectable_nsclc",
+      "note": "'Resectable' is not operationalized; it depends on stage, surgical assessment, and local practice."
+    },
+    {
+      "id": "I1",
+      "value": "neoadjuvant_chemoimmunotherapy",
+      "note": "The composition of 'chemoimmunotherapy' (drug classes, cycles, sequencing) is not defined."
+    },
+    {
+      "id": "D4",
+      "value": "trial_level_data",
+      "note": "'Trial-level data' is not defined; it may exclude pooled analyses, subgroup reports, and some follow-up publications."
+    },
+    {
+      "id": "D5",
+      "value": "abstract_without_trial_level_evidence",
+      "note": "The scope of 'without trial-level evidence' is ambiguous; the review later included 6 conference abstracts with trial-level data."
+    },
+    {
+      "id": "T3",
+      "value": "immunotherapy_monotherapy",
+      "note": "Distinguishing monotherapy from combination therapy requires regimen details; abstracts may not report them."
+    }
+  ]
+}

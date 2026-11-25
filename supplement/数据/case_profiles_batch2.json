@@ -1,0 +1,984 @@
+[
+  {
+    "case": "AMH 诊断 PCOS（DTA）",
+    "label": "AMH 诊断 PCOS（DTA）",
+    "journal": "Journal of Korean Medical Science",
+    "year": 2026,
+    "design": "诊断准确性（diagnostic test accuracy, DTA）研究的系统综述与元分析；van der Ham 等综述的更新版",
+    "n_studies": 92,
+    "n_publications": 92,
+    "n_patients": null,
+    "unit": "研究水平的 2×2 表（TP/FP/FN/TN）或由其导出的敏感度-特异度配对，按各研究自己的 AMH 阈值提取；同一文献可贡献多行（Zhang 2023 两行），不同文献也可能同属一个队列（Dietz de Loos 2021 与 2019，原文未说明去重）。三个 KQ 分别合并：83 + 6 + 11 = 100 项研究条目，超过 92 项 unique studies，跨 KQ 重叠的处理未报告。",
+    "analysis_group": "按三个预设 KQ：KQ1 成人 PCOS（83 项，n=33,376）、KQ2 成人 PCOM（6 项，n=11,436）、KQ3 青少年 PCOS（11 项，n=1,090）。KQ2 未做阈值分层（仅 6 项且阈值不均）；KQ3 未做年龄或青春期分层（年龄范围窄，Tanner 分期与初潮信息不一致）。三个 KQ 的研究数合计 100，超过 92 项 unique studies，提示存在跨 KQ 重复贡献。",
+    "criteria": [
+      {
+        "id": "A1",
+        "text": "纳入诊断准确性研究（diagnostic accuracy studies）",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "Eligibility criteria 原文以“diagnostic accuracy studies”限定研究设计。"
+      },
+      {
+        "id": "A2",
+        "text": "研究须在人体中进行",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文：“conducted in humans”。"
+      },
+      {
+        "id": "A3",
+        "text": "以血清抗苗勒管激素（AMH）作为待评价的 index test",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文：“serum AMH as an index test”；未限定检测平台或阈值。"
+      },
+      {
+        "id": "A4",
+        "text": "目标疾病为多囊卵巢综合征（PCOS）或多囊卵巢形态（PCOM）",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E0",
+        "note": "原文：“for diagnosing PCOS or PCOM”；题名含 PCOS。"
+      },
+      {
+        "id": "A5",
+        "text": "PCOS 的参考标准为鹿特丹（Rotterdam）标准",
+        "type": "B",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "KQ1/KQ3 适用；KQ3 Table 2 中 3/11 项标为 NIH 定义（Kim 2017、Sopher 2014、Villarroel 2015），1 项标“Complete Rotterdam”（Khashchenko 2020）。"
+      },
+      {
+        "id": "A6",
+        "text": "PCOM 的参考标准为经阴道或经直肠超声",
+        "type": "B",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "Table 1 的操作定义包括 ≥12 或 ≥20 个卵泡/卵巢和/或卵巢体积 ≥10 mL；KQ2 合并值为这些操作定义的平均表现。"
+      },
+      {
+        "id": "A7",
+        "text": "报告真阳性（TP）、假阳性（FP）、假阴性（FN）、真阴性（TN）绝对值，或可推导上述数值的敏感度/特异度",
+        "type": "B",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "原文：“absolute numbers of TP, FP, FN, and TN, or reported sensitivity and specificity data from which these values could be derived”。"
+      },
+      {
+        "id": "A8",
+        "text": "2×2 表可在明确的 AMH 阈值下提取或重建；不能重建者排除",
+        "type": "B",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "原文：“at a defined AMH threshold”；Table 1 中 Indran et al. (2018) 的 PCOM/对照人数与 2×2 格均标 NS。"
+      },
+      {
+        "id": "A9",
+        "text": "研究以英文发表",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E0",
+        "note": "原文：“Studies published in English were included”。"
+      },
+      {
+        "id": "A10",
+        "text": "排除病例报告（case reports）、社论（editorials）与叙述性综述（narrative reviews）",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文列举三类被排除的文献类型。"
+      },
+      {
+        "id": "A11",
+        "text": "研究人群须对应三个预设 KQ 之一：成人 PCOS、成人 PCOM 或青少年 PCOS",
+        "type": "A",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "KQ1 成人 PCOS；KQ2 成人 PCOM；KQ3 青少年 PCOS；正文未给出成人/青少年的年龄切点，KQ3 研究平均年龄多在 15–18 岁。"
+      }
+    ],
+    "findings": [
+      {
+        "text": "本综述是 van der Ham 等系统综述的更新版：沿用其纳入与排除标准，检索期由 2023-07-31 延至 2024-11-10，并在补充分析中纳入韩国国内研究。",
+        "source": "METHODS（首段）",
+        "layer": "E2",
+        "kind": "标准来源"
+      },
+      {
+        "text": "纳入标准按三个 KQ 分别以 Population、Index Test、Comparator/Reference Standard、Outcome 框架定义；正文未给出成人/青少年的年龄界值，KQ3 纳入研究的平均年龄多在 15–18 岁。",
+        "source": "METHODS（Eligibility criteria）；RESULTS（Study characteristics）",
+        "layer": "E2",
+        "kind": "人群边界"
+      },
+      {
+        "text": "KQ2（成人 PCOM）按各研究的操作定义提取参考标准：Table 1 使用 ≥12 或 ≥20 个卵泡/卵巢和/或卵巢体积 ≥10 mL；作者明确合并值为这些操作定义的平均表现，并因仅 6 项研究、阈值不均而未做阈值分层。",
+        "source": "METHODS（Study selection and data extraction）；Table 1",
+        "layer": "E2",
+        "kind": "参考标准定义"
+      },
+      {
+        "text": "KQ3（青少年 PCOS）Table 2 的 11 项研究中有 3 项（Kim 2017、Sopher 2014、Villarroel 2015）标为美国国立卫生研究院（NIH）定义，8 项为 Rotterdam 或 Complete Rotterdam；纳入标准写的是 Rotterdam 标准。",
+        "source": "METHODS（Eligibility criteria）；RESULTS（Study characteristics）；Table 2",
+        "layer": "E2",
+        "kind": "参考标准定义"
+      },
+      {
+        "text": "KQ2 正文称 6 项研究（n=11,436），Table 1 却列 9 个研究×定义行（7 位第一作者）：Dietz de Loos 与 Zhang 各 2 行，Indran 的 2×2 计数标 NS；9 行中 Bell+Bozdag+Dietz 两行+Eilertsen+Lauritsen+Zhang（≥12 卵泡行）合计恰为 11,436。三个 KQ 的研究数合计 83+6+11=100，超过 92 项 unique studies（差 8），原文未说明跨 KQ 重叠的处理。",
+        "source": "RESULTS（Study selection；AMH for PCOM diagnosis in adults）；Table 1",
+        "layer": "E2",
+        "kind": "单位"
+      }
+    ],
+    "unknown": {
+      "n": 1,
+      "d": 9,
+      "note": "KQ2 Table 1 共 9 行（按行计；正文 KQ2 为 6 项研究）；Indran et al. (2018) 的 PCOM/对照人数与 TP/FP/FN/TN 均标 NS（1/9 行）。正文未报告去重后的总受试者数（各 KQ 为 33,376、11,436、1,090；讨论仅称 over 45,000 participants）。"
+    },
+    "id": "amh_pcos",
+    "pmid": "43074584",
+    "pmcid": "PMC13793648",
+    "pub_note": "文献数未单列，按 92 项研究计"
+  },
+  {
+    "case": "statin_crc",
+    "label": "他汀与结直肠癌预后",
+    "journal": "Frontiers in Oncology",
+    "year": 2026,
+    "design": "系统综述与荟萃分析（基于聚合数据的观察性研究合成；纳入 19 项队列研究和 1 项病例对照研究）",
+    "n_studies": 20,
+    "n_publications": 20,
+    "n_patients": 207041,
+    "unit": "基本分析单位为研究（按单篇 publication 识别）；同一研究可同时进入 prediagnostic 与 postdiagnostic 两个暴露窗口（Cardwell 2014、Erkinantti 2022、Gray 2016 三项重叠），也可同时贡献 ACM 与 CSM 两个结局。患者例数按研究-暴露窗口累计（131,599 + 75,442 = 207,041），未按 3 项重叠研究去重；同一研究有多套数据时仅取 PSM 的一套。",
+    "analysis_group": "主分析按暴露窗口 × 结局分为四组：prediagnostic 与 postdiagnostic（2.6 节定义为 statin use after cancer diagnosis）各分 ACM、CSM；四组合并的研究数分别为 4、9、12、10（prediagnostic ACM 4、prediagnostic CSM 9、postdiagnostic ACM 12、postdiagnostic CSM 10）。亚组按地区、肿瘤部位（结肠/直肠/结直肠）、随访时长（≥5 年 vs <5 年）、肿瘤分期划分，正文仅对 postdiagnostic ACM 实施。敏感性分析按暴露定义另设组，限定 Cox 时变协变量研究（CSM 5 项、ACM 4 项）。",
+    "criteria": [
+      {
+        "id": "S1",
+        "text": "研究人群为已确诊结直肠癌（CRC）的患者（PICOS 的 P）。",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文：the study population included patients diagnosed with CRC。"
+      },
+      {
+        "id": "S2",
+        "text": "他汀使用须作为暴露因素被评估，暴露时点可在 CRC 诊断前或诊断后（PICOS 的 I）。",
+        "type": "A",
+        "formal": "structured",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文：statin use was assessed as an exposure factor either before or after CRC diagnosis；2.6 节将 postdiagnostic use 定义为 statin use after cancer diagnosis。"
+      },
+      {
+        "id": "S3",
+        "text": "以未使用他汀者为对照（PICOS 的 C）。",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文：non-users of statins served as the comparator。"
+      },
+      {
+        "id": "S4",
+        "text": "结局须包括全因死亡（ACM）或肿瘤特异性死亡（CSM）（PICOS 的 O）。",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文：outcomes included either all-cause mortality (ACM) or cancer-specific mortality (CSM)。"
+      },
+      {
+        "id": "S5",
+        "text": "研究设计为病例对照研究或队列研究（PICOS 的 S）。",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文：case–control or cohort studies；最终纳入 19 项队列研究和 1 项病例对照研究（Results 3.1）。"
+      },
+      {
+        "id": "S6",
+        "text": "文章以英文发表。",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E0",
+        "note": "原文：The article was published in English；检索策略亦限定英文文献。"
+      },
+      {
+        "id": "S7",
+        "text": "报告 HR 或 RR 及其 95% CI，或提供足以计算这些估计的数据。",
+        "type": "B",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "原文：HRs or relative risks (RRs) were reported with their 95% CIs, or sufficient data were available to calculate these；Efforts were made to contact authors for additional information if required。"
+      },
+      {
+        "id": "S8",
+        "text": "纳入研究须使用倾向性评分匹配（PSM）或提供校正后估计，以减小选择偏倚。",
+        "type": "B",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "原文：All included studies were required to use propensity score matching (PSM) or provide adjusted estimates to minimize selection bias；2.5 节称同一研究有多套可用数据时仅取 PSM 数据。"
+      },
+      {
+        "id": "S9",
+        "text": "排除仅关联 ACM 或 CSM 信息、未提供可用效应估计的研究。",
+        "type": "B",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "排除条件原文：the study only linked information on all-cause mortality or cancer-specific mortality without providing usable effect estimates。"
+      },
+      {
+        "id": "S10",
+        "text": "排除社论来信、评论、荟萃分析、综述或病例报告等文稿类型。",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E0",
+        "note": "排除条件原文：the manuscript types were letters to the editor, comments, meta-analyses, reviews, or case reports。"
+      },
+      {
+        "id": "S11",
+        "text": "排除以 OR 而非 HR/RR 报告效应的临床研究。",
+        "type": "B",
+        "formal": "rule",
+        "vis": "low",
+        "ev": "E2",
+        "note": "排除条件原文：clinical studies reported an odds ratio (OR) instead of HR/RR。"
+      },
+      {
+        "id": "S12",
+        "text": "排除研究对象为 CRC 以外恶性肿瘤的研究。",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "排除条件原文：the participants had a malignancy other than CRC。"
+      },
+      {
+        "id": "S13",
+        "text": "排除虽纳入 CRC 患者但未考察他汀使用的研究。",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "排除条件原文：the study involved patients with CRC but did not examine statin use。"
+      },
+      {
+        "id": "S14",
+        "text": "排除数据不足以提取的研究。",
+        "type": "B",
+        "formal": "judgment",
+        "vis": "low",
+        "ev": "E2",
+        "note": "排除条件原文：the study had insufficient data for extraction。"
+      }
+    ],
+    "findings": [
+      {
+        "text": "prediagnostic 组 10 项研究 131,599 例与 postdiagnostic 组 13 项研究 75,442 例相加为 207,041 例，与摘要所报总例数完全一致；两组纳入研究编号有 3 项重叠（Cardwell 2014 [25]、Erkinantti 2022 [41]、Gray 2016 [47]），且 Table 2 中 13 项 postdiagnostic 研究的用户/非用户例数逐项合计亦为 75,442（Erkinantti 仅报总数 1,523）。prediagnostic 组分项例数仅见 Supplementary Table 1，正文未列。提示 207,041 为研究-暴露窗口贡献之和，未按重叠研究去重。",
+        "source": "Abstract; Results 3.1; Table 2",
+        "layer": "analysis",
+        "kind": "单位"
+      },
+      {
+        "text": "同一研究存在多套可用数据时，作者只选取倾向性评分匹配（PSM）的一套数据进入分析；多数 HR 为校正年龄、肿瘤分期等变量后的估计。",
+        "source": "Methods 2.5",
+        "layer": "E2",
+        "kind": "单位"
+      },
+      {
+        "text": "暴露组总数不等于各结局分析的实际研究数：prediagnostic 10 项中仅 4 项报告 ACM、9 项报告 CSM（3 项同时报告两结局）；postdiagnostic 13 项中 12 项进入 ACM、10 项进入 CSM 分析。postdiagnostic ACM 的随访时长亚组正文仅报告 ≥5 年 6 项、<5 年 3 项（合计 9 项），其余 3 项未列出；Table 2 中 Fransgaard 2019 [29]、Lash 2017 [39]、Krens 2014 [44] 的随访时长为 NR。",
+        "source": "Results 3.2–3.4; Table 2",
+        "layer": "E2",
+        "kind": "分析组"
+      },
+      {
+        "text": "postdiagnostic 暴露定义不统一：作者按暴露定义对全部研究分类（Supplementary Table 3），其中 CSM 分析有 5 项、ACM 分析有 4 项将他汀暴露建模为 Cox 时变协变量；限定这些时变协变量研究的敏感性合并为 CSM HR 0.74（95% CI 0.67–0.83）、ACM HR 0.77（95% CI 0.68–0.87）。",
+        "source": "Methods 2.6; Results 3.6; Discussion",
+        "layer": "E2",
+        "kind": "干预定义"
+      },
+      {
+        "text": "prediagnostic CSM 的合并 HR 在摘要中为 0.82（95% CI 0.78–0.86），在 Results 3.2 中为 0.82（95% CI 0.79–0.86），95% CI 下限相差 0.01；其余三个主分析的摘要与正文估计一致。",
+        "source": "Abstract vs Results 3.2",
+        "layer": "analysis",
+        "kind": "事实接地"
+      }
+    ],
+    "unknown": {
+      "n": 13,
+      "d": 13,
+      "note": "全部 13 项 postdiagnostic 研究均未按化疗意图（治愈 vs 姑息）分层，也未单独报告 IV 期患者估计；stage I–III 与 I–IV 的 ACM 差异无法与治疗意图的混淆分离。"
+    },
+    "id": "statin_crc",
+    "pmid": "43074983",
+    "pmcid": "PMC13789998"
+  },
+  {
+    "case": "hearing_loss",
+    "label": "个人听设备与听力损失",
+    "journal": "BMC Public Health",
+    "year": 2026,
+    "design": "系统综述与 meta 分析（横断面 53 + 队列 5 + 病例对照 2；主合并仅 12 项横断面研究）",
+    "n_studies": 60,
+    "n_publications": 60,
+    "n_patients": 67404,
+    "unit": "研究：60 项纳入研究（67,404 人，20 国）；主合并以研究级 OR 为单位（12 项横断面研究，7,824 人）。EHF、OAE 与耳鸣为叙述性汇总，不构成同一研究的多次合并；同一研究是否进入多个结局的定量合成，原文未说明。",
+    "analysis_group": "主分析：PLD 使用者 vs 非使用者（12 项横断面研究，7,824 人）。年龄亚组为 <18 岁 3 项（3,588 人）与 ≥18 岁 8 项（1,901 人），合计 11 项、5,489 人，另 1 项（2,335 人）未列入；设备亚组为耳塞/入耳3 项 vs 头戴 1 项；时长与音量各分三档（11 项、12 项）。敏感性分析剔除 5 项低质量横断面研究（余 7 项），并行 REML/HKSJ 调整。",
+    "criteria": [
+      {
+        "id": "H1",
+        "text": "人群为任何年龄的人类受试者（儿童、青少年、成人）",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "PICO Population；纳入研究年龄跨度 6–100 岁"
+      },
+      {
+        "id": "H2",
+        "text": "无既存听力病理（如先天性听力损失、耳硬化症、梅尼埃病）",
+        "type": "A",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "PICO Population 括号内列举 congenital hearing loss、otosclerosis、Meniere's disease"
+      },
+      {
+        "id": "H3",
+        "text": "暴露为个人听设备（头戴耳机、耳塞、入耳式、MP3 播放器、iPod、可播放音频的智能手机、便携数字音频播放器）",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "PICO Exposure 的设备清单；Results 报告 26/60 项未说明设备类型"
+      },
+      {
+        "id": "H4",
+        "text": "“长期/慢性”暴露由原始研究定义，可为每日时长（如 ≥1 h/日）、累计年数（如 ≥1 年）、频率（如 ≥3 日/周）或综合指标（如总收听小时数）",
+        "type": "A",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "PICO Exposure 原文 'defined by the primary study'；上述阈值均为示例"
+      },
+      {
+        "id": "H5",
+        "text": "对照为非使用者或低使用组（如 <30 min/日、从不使用、或使用 <1 年）",
+        "type": "A",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "PICO Comparison 的示例阈值：<30 min/day、never use、<1 year"
+      },
+      {
+        "id": "H6",
+        "text": "结局 (a)：纯音测听阈值 ≥20 dB HL（任一频率）或存在听阈切迹，尤其 4–6 kHz",
+        "type": "A",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "PICO Outcomes (a)；Outcome measures for meta-analysis 写 'most commonly ≥25 dB HL at any frequency or >20 dB HL at high frequencies 3–8 kHz'"
+      },
+      {
+        "id": "H7",
+        "text": "结局 (b)：扩展高频测听 9–20 kHz",
+        "type": "A",
+        "formal": "rule",
+        "vis": "low",
+        "ev": "E2",
+        "note": "PICO Outcomes (b)；Results 报告 12 项研究有 EHF 数据"
+      },
+      {
+        "id": "H8",
+        "text": "结局 (c)：耳声发射（DPOAE 或 TOAE 幅值）",
+        "type": "A",
+        "formal": "rule",
+        "vis": "low",
+        "ev": "E2",
+        "note": "PICO Outcomes (c)；Results 报告 11 项研究测 OAE"
+      },
+      {
+        "id": "H9",
+        "text": "结局 (d)：自报听力症状（耳鸣、听力困难）作为次要结局",
+        "type": "A",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "PICO Outcomes (d)；全文阶段 16/125 因仅有自报证据被排除"
+      },
+      {
+        "id": "H10",
+        "text": "研究设计限于横断面、病例对照、队列",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "PICO Study design；实际纳入 53 横断面、5 队列、2 病例对照"
+      },
+      {
+        "id": "H11",
+        "text": "排除病例报告、致编辑信、综述、meta 分析、社论、动物研究与尸体研究",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "Exclusion criteria 列举 case reports、letters to the editor、reviews、meta-analyses、editorials、animal studies、cadaveric studies"
+      },
+      {
+        "id": "H12",
+        "text": "排除无全文的会议摘要",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "Exclusion criteria 列举 'conference abstracts without full text'；Search strategy 称检索 conference proceedings"
+      },
+      {
+        "id": "H13",
+        "text": "排除仅报告急性（单次）暴露、未评估长期使用的研究",
+        "type": "A",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "Exclusion criteria 末段 'acute (single session) exposure without assessment of chronic use'"
+      },
+      {
+        "id": "H14",
+        "text": "呼叫中心操作员或职业头戴设备使用者仅在明确报告与职业暴露分开的娱乐性 PLD 使用时纳入",
+        "type": "A",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "Eligibility criteria 末句；Results 报告 3 项纳入研究为 call center operators"
+      },
+      {
+        "id": "H15",
+        "text": "最终合成仅纳入英语与波斯语文献（检索不设日期或语言限制）",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E0",
+        "note": "Search strategy；全文阶段 3/125 因非英语被排除"
+      }
+    ],
+    "findings": [
+      {
+        "text": "资格标准的听力损失阈值为 ≥20 dB HL（任一频率）或 4–6 kHz 切迹；主合并结局按各研究定义，'most commonly ≥25 dB HL at any frequency or >20 dB HL at high frequencies 3–8 kHz'；60 项研究的定义分布为 ≥20 dB 15 项、≥25 dB 18 项、4–6 kHz 切迹 12 项、PTA >20 dB 8 项、3–8 kHz 高频、≥2 个频率 >20 dB 7 项",
+        "source": "Methods > Eligibility criteria; Methods > Outcome measures for meta-analysis; Results > Outcome measures",
+        "layer": "E2",
+        "kind": "结局定义"
+      },
+      {
+        "text": "暴露时长报告格式不一：31 项为小时/日或天/周，4 项为使用年数，1 项仅定性描述，22 项同时报告小时/日、天/周与累计年数，2 项无可用的时长数据；音量方面 21 项未报告、24 项仅定性、9 项给出 dB 值",
+        "source": "Results > Exposure characteristics",
+        "layer": "E2",
+        "kind": "干预定义"
+      },
+      {
+        "text": "设备类型：8 项头戴、11 项耳塞/入耳、15 项两者兼有、26 项未说明；作者注明 headphones 与 earphones/earbuds 在多项研究中可能互换；设备亚组仅 3 项耳塞研究与 1 项头戴研究",
+        "source": "Results > Device type; Results > Device type (Earphones/Earbuds vs. Headphones)",
+        "layer": "E2",
+        "kind": "数据充分性"
+      },
+      {
+        "text": "60 项纳入研究的人口学年龄分布为 <18 岁 14 项、≥18 岁 35 项、跨 18 岁 10 项单列 mixed、1 项未报告（这是描述性分层，不是 12 项主分析的年龄亚组）；主分析年龄亚组为 <18 岁 3 项与 ≥18 岁 8 项，Basjo 2016 [61] 与 Swierniak 2020 [70] 同时出现于两组文献列表，作者未说明重复贡献处理。",
+        "source": "Results > Population characteristics; Results > Age group (Children/Adolescents vs. Adults)",
+        "layer": "E2",
+        "kind": "分析组"
+      },
+      {
+        "text": "资格标准把自报耳鸣/听力困难列为次要结局（d），但全文阶段 16/125 因 'only self-report evidence' 被排除；语言限制（仅 English/Persian 进入最终合成）写在 Search strategy，不在 Eligibility criteria 的 PICO 清单，另 3/125 因非英语被排除",
+        "source": "Methods > Eligibility criteria; Methods > Search strategy; Results > Study selection",
+        "layer": "E2",
+        "kind": "标准完整性"
+      }
+    ],
+    "unknown": {
+      "n": 26,
+      "d": 60,
+      "note": "60 项纳入研究中 26 项未说明设备类型（8 头戴、11 耳塞/入耳、15 两者兼有），设备类型亚组不可判"
+    },
+    "id": "hearing_loss",
+    "pmid": "43073879",
+    "pmcid": "PMC13791535"
+  },
+  {
+    "case": "bfr_umbrella",
+    "label": "BFR 训练伞状综述",
+    "journal": "BMC Geriatrics",
+    "year": 2026,
+    "design": "系统综述的伞状综述（umbrella review of systematic reviews；纳入系统综述、Meta 分析与网络 Meta 分析，不进行伞状层再合并）",
+    "n_studies": 9,
+    "n_publications": 9,
+    "n_patients": null,
+    "unit": "分析单位为纳入的系统综述（9 篇）；每篇综述是评价单位，“not reported”仅指综述读者无法获得该信息，不证明原始研究报告缺失。原始研究嵌套于综述内，重叠以 review–primary-study occurrence 计（80 次、36 项唯一原始研究、CCA 15.28%）；来源综述的估计值直接提取，不重新合并。",
+    "analysis_group": "按证据层级分为四组：核心合格定量来源综述证据、核心合格叙述/证据缺口证据、支持/敏感性证据、单独的临床康复亚组证据（膝关节置换预康复）。主结论仅基于核心合格证据；支持性证据仅用于一致性检验、不提升确定性；康复证据因对健康/社区老年人具间接性而单独解读。另按结局—对照配对（低负荷 BFR vs 低负荷训练、vs 高负荷训练、vs 被动对照等）分别汇总来源综述估计值，不作 de novo 合并。",
+    "criteria": [
+      {
+        "id": "U1",
+        "text": "纳入对象限于系统综述、Meta 分析或网络 Meta 分析（systematic reviews, meta-analyses or network meta-analyses）。",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文将设计限定为 systematic reviews、meta-analyses 或 network meta-analyses；protocols 与 conference abstracts 另列排除。"
+      },
+      {
+        "id": "U2",
+        "text": "综述须评价 BFR（血流限制）运动训练。",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文：evaluating BFR exercise training；非 BFR 特异性的伞状综述被排除。"
+      },
+      {
+        "id": "U3",
+        "text": "目标人群为 60 岁及以上成人。",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "标题与摘要均写 adults aged 60 years and older。"
+      },
+      {
+        "id": "U4",
+        "text": "综述须明确以老年人为目标人群（explicitly targeted older adults）。",
+        "type": "C",
+        "formal": "judgment",
+        "vis": "low",
+        "ev": "E2",
+        "note": "core eligibility 的第一项；原文要求 review explicitly targeted older adults。"
+      },
+      {
+        "id": "U5",
+        "text": "综述报告的原始研究年龄信息须与 ≥60 岁人群相容（compatible with the ≥60-year population）。",
+        "type": "C",
+        "formal": "judgment",
+        "vis": "low",
+        "ev": "E2",
+        "note": "core eligibility 的第二项；依据 the primary-study age information reported by the review，未给出操作化阈值。"
+      },
+      {
+        "id": "U6",
+        "text": "仅以平均年龄 ≥60 岁不足以判定完全直接；已知纳入 <60 岁参与者、纳入门槛 <60 岁或年龄报告不一致须记为 indirectness concern。",
+        "type": "C",
+        "formal": "judgment",
+        "vis": "low",
+        "ev": "analysis",
+        "note": "三种触发情形：known inclusion of participants younger than 60 years、an eligibility threshold below 60 years、inconsistent age reporting。"
+      },
+      {
+        "id": "U7",
+        "text": "纳入混合年龄人群且无法分离老年人数据的综述，仅归为 supporting/sensitivity evidence 或单独解读的临床亚组。",
+        "type": "B",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "原文：restricted to supporting/sensitivity evidence or a separately interpreted clinical subgroup, depending on their relevance；不直接排除而作降级/分层处理。"
+      },
+      {
+        "id": "U8",
+        "text": "排除研究方案（protocols）与会议摘要（conference abstracts）。",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文列入 excluded 清单。"
+      },
+      {
+        "id": "U9",
+        "text": "排除叙述性综述、范围综述及非 BFR 特异性的伞状综述。",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文：narrative reviews、scoping reviews、non-BFR-specific umbrella reviews。"
+      },
+      {
+        "id": "U10",
+        "text": "排除运动员人群或超出老年人边界的混合成人人群综述。",
+        "type": "A",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "原文：reviews of athletes or mixed adult populations outside the older-adult boundary；边界判定需综述纳入标准与人群年龄信息。"
+      },
+      {
+        "id": "U11",
+        "text": "干预须属以下 BFR 运动类别之一：低负荷 BFR 抗阻训练、BFR 步行/有氧运动、BFR 功能训练、围手术期或康复 BFR。",
+        "type": "A",
+        "formal": "structured",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文列举 low-load BFR resistance training、walking or aerobic exercise with BFR、functional training with BFR、perioperative or rehabilitation BFR。"
+      },
+      {
+        "id": "U12",
+        "text": "对照须为无 BFR 的低负荷训练、高负荷抗阻训练、常规康复、常规照护或替代 BFR 处方。",
+        "type": "A",
+        "formal": "structured",
+        "vis": "high",
+        "ev": "E1",
+        "note": "usual care 原文定义为 routine clinical or lifestyle management，包括无结构化运动、维持习惯活动或标准术后医嘱。"
+      },
+      {
+        "id": "U13",
+        "text": "主要结局为安全性与耐受性：不良事件、严重不良事件、血栓/凝血/纤溶生物标志物、血流动力学反应、不适、退出与依从性。",
+        "type": "A",
+        "formal": "structured",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文列 7 类主要结局域：adverse events、serious adverse events、thrombotic/coagulation/fibrinolytic biomarkers、haemodynamic responses、discomfort、withdrawals、adherence。"
+      },
+      {
+        "id": "U14",
+        "text": "次要结局为肌力、肌肉肥大、躯体功能、步态、活动能力、跌倒相关结局与心肺适能。",
+        "type": "A",
+        "formal": "structured",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文列 7 类次要结局域：muscle strength、muscle hypertrophy、physical function、gait、mobility、fall-related outcomes、cardiorespiratory capacity；outcome direction rules applied before synthesis。"
+      }
+    ],
+    "findings": [
+      {
+        "text": "年龄核心纳入标准写作“综述报告的原始研究年龄信息与 ≥60 岁人群相容”，并明确仅平均年龄 ≥60 岁不视为完全直接；已知纳入 <60 岁、纳入门槛 <60 岁或年龄报告不一致均记为 indirectness concern。",
+        "source": "Methods, Eligibility criteria",
+        "layer": "E2",
+        "kind": "人群边界"
+      },
+      {
+        "text": "原始研究平均年龄 60.5–76.4 岁；3 篇综述纳入或明确承认 <60 岁参与者：Hsieh 9 项研究中 2 项含 <60 岁，Rodrigo-Mallorca 纳入 59–71 岁试验，Tiss 一项试验的纳入门槛为 ≥50 岁。",
+        "source": "Results, Age applicability; Table 5",
+        "layer": "E2",
+        "kind": "人群边界"
+      },
+      {
+        "text": "检索流程 848 条记录→去除 645 条重复→203 条筛选→58 篇全文→纳入 9 篇综述；重叠按 80 次 review–primary-study occurrence、36 项唯一原始研究计算，CCA 15.28%（公式 (N−r)/(r×c−r)）。",
+        "source": "Results, Study selection; Results, Primary-study overlap and methodological quality; Methods, Evidence hierarchy and overlap management",
+        "layer": "analysis",
+        "kind": "单位"
+      },
+      {
+        "text": "无综述报告 AOP/LOP 测量或运动中的体位；14 个 BFR 报告域中 8 个在所有综述中缺失；主要力量/肥大综述 14 项试验中 4 项练至力竭、0 项定量报告力竭接近度。",
+        "source": "Abstract Results; Results, BFR and exercise prescription reporting; Table 5",
+        "layer": "E2",
+        "kind": "干预定义"
+      },
+      {
+        "text": "证据按四层分级：core eligible quantitative、core narrative/evidence-gap、supporting/sensitivity、separate clinical rehabilitation subgroup；主结论仅用 core，supporting 仅作一致性检验，TKA 预康复证据单独解读；来源综述估计值直接提取、不重新合并。",
+        "source": "Methods, Evidence hierarchy and overlap management; Methods, Data synthesis and statistical transparency; Results, Characteristics and evidence tiers",
+        "layer": "E2",
+        "kind": "分析组"
+      }
+    ],
+    "unknown": {
+      "n": 9,
+      "d": 9,
+      "note": "0/9 篇综述报告 AOP/LOP 测量或运动中的体位；14 个 BFR 报告域中 8 个在所有综述中均未报告；主要力量/肥大综述 0/14 项试验定量报告力竭接近度。"
+    },
+    "id": "bfr_umbrella",
+    "pmid": "43069040",
+    "pmcid": "PMC13791540"
+  },
+  {
+    "case": "floating_hip_ipd",
+    "label": "浮动髋 IPD meta 分析",
+    "journal": "EFORT Open Reviews",
+    "year": 2026,
+    "design": "系统综述与一阶段个体参与者数据（IPD）meta 分析；纳入研究限于观察性设计：11 项病例系列（摘要称 retrospective cohort studies）+ 1 项病例对照研究，全部为回顾性",
+    "n_studies": 12,
+    "n_publications": 12,
+    "n_patients": 271,
+    "unit": "个体患者（individual participant）为分析单位，研究为聚类单位（随机截距）。12 项研究共 271 例进入描述性汇总；其中 7 项报告逐例患者数据（112 例）进入一阶段 IPD 分析，其余 5 项仅汇总数据。各模型分母随协变量与缺失变化（HO 吲哚美辛模型 59 例、HHS 至手术时间模型 51 例、AVN 模型报告 44 例）；原文未报告研究间样本重叠或重复病例的处理规则。",
+    "analysis_group": "IPD 可得性划分的是嵌套子集而非并列组：描述性汇总 12 项/271 例，IPD 分析 7 项/112 例（子集）。IPD 内按结局分别建模（HO、创伤后骨关节炎、AVN、骨不连、HHS）；四个二分类结局按手术入路、吲哚美辛使用、固定顺序、Matta 复位评分分组；HHS 的协变量集合不同（至手术时间及是否发生 AVN、HO、创伤后骨关节炎、骨不连）。",
+    "criteria": [
+      {
+        "id": "I1",
+        "text": "纳入的研究设计限于病例对照研究、回顾性队列研究与前瞻性研究",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "原文枚举 case–control、retrospective cohort、prospective 三类；实际纳入 11 项病例系列 + 1 项病例对照，摘要称 11 项为 retrospective cohort studies，无前瞻性研究。"
+      },
+      {
+        "id": "I2",
+        "text": "（i）患者须为股骨与髋臼同侧、同时发生的创伤性骨折",
+        "type": "A",
+        "formal": "structured",
+        "vis": "high",
+        "ev": "E1",
+        "note": "i) 股骨与髋臼同侧、同时、创伤性骨折；即 Introduction 所称 Liebergall type B（'true floating hip'）人群。"
+      },
+      {
+        "id": "I3",
+        "text": "（ii）须报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+        "type": "B",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "ii) 髋臼分类限 AO 或 Letournel，股骨分类限 AO，与 i) 以 'and' 并列；Results 中 10 项研究用 Letournel 分类，其余用 AO。"
+      },
+      {
+        "id": "I4",
+        "text": "排除系统综述与 meta 分析、范围综述、病例报告、尸体研究、生物力学研究",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E0",
+        "note": "排除 systematic reviews and meta-analyses、scoping reviews、case reports、cadaveric studies、biomechanical studies；纳入的 11 项为 case series，并非 case reports。"
+      },
+      {
+        "id": "I5",
+        "text": "排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+        "type": "B",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "type A = 股骨+骨盆骨折，type B = 股骨+髋臼骨折（Liebergall 分类）；仅当含 type A 病例的研究无法提供仅 type B 的数据时排除；本综述聚焦 'true floating hip'（type B）。"
+      },
+      {
+        "id": "I6",
+        "text": "排除病理性骨折、肿瘤或感染性疾病、慢性损伤患者",
+        "type": "A",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "排除 pathologic fractures、oncologic or infectious diseases、chronic injuries 患者。"
+      },
+      {
+        "id": "I7",
+        "text": "IPD 分析仅纳入在正文或表格中报告逐例患者数据的研究",
+        "type": "B",
+        "formal": "rule",
+        "vis": "low",
+        "ev": "E2",
+        "note": "IPD 分析条件，非综述筛选标准；IPD 分析条件而非综述纳入标准：7/12 项研究在正文或表格报告逐例数据，112/271 例进入一阶段 IPD meta 分析。"
+      }
+    ],
+    "findings": [
+      {
+        "text": "12 项研究（11 项病例系列 + 1 项病例对照）共 271 例；其中 7 项报告逐例患者数据（112 例）进入 IPD meta 分析，其余 5 项仅提供汇总数据。",
+        "source": "Results – Study selection；Fig. 1；Table 1",
+        "layer": "E2",
+        "kind": "分析组"
+      },
+      {
+        "text": "摘要称 11 项为 retrospective cohort studies，正文结果称 11 项 case series；Methods 的纳入设计写为 case–control、retrospective cohort、prospective studies，实际无前瞻性研究。",
+        "source": "Abstract；Methods – Inclusion criteria；Results – Study selection",
+        "layer": "E2",
+        "kind": "设计定义"
+      },
+      {
+        "text": "floating hip 分型：type A 为股骨+骨盆骨折，type B 为股骨+髋臼骨折；本综述聚焦 type B（'true floating hip'），并排除无法分离 type B 数据的含 type A 病例研究。",
+        "source": "Introduction；Methods – Inclusion criteria",
+        "layer": "E2",
+        "kind": "人群边界"
+      },
+      {
+        "text": "二分类结局（HO、创伤后骨关节炎、AVN、骨不连）用 logistic 混合模型报告 OR（95% CI），HHS 用线性混合模型报告调整均值差；一阶段 IPD、随机截距、blme 贝叶斯正则化（MAP、弱信息先验）用于低事件率。",
+        "source": "Methods – Statistical analysis；Table 5；Table 6",
+        "layer": "E2",
+        "kind": "结局定义"
+      },
+      {
+        "text": "各模型分母随协变量与缺失变化：HO 吲哚美辛分析 59 例（24 vs 35；事件 9 vs 1；OR 0.09，95% CI 0.01–0.65，P=0.018）；HHS 至手术时间模型 51 例；AVN 行报告 5 vs 39（合计 44 例），未给出 51 例分母。AVN 与骨不连的固定顺序模型未收敛（原文脚注），未给出 OR；股骨优先组 22 例 0 事件为观察数据，不是原文给出的未收敛原因。",
+        "source": "Table 5；Table 6",
+        "layer": "analysis",
+        "kind": "数据充分性"
+      }
+    ],
+    "unknown": {
+      "n": 159,
+      "d": 271,
+      "note": "IPD 未覆盖 5/12 项研究、159/271 例患者（仅汇总数据）；并发症报告于 9 项/211 例，髋关节脱位仅 3 项/61 例，HHS 仅 3 项。"
+    },
+    "id": "floating_hip_ipd",
+    "pmid": "42969768",
+    "pmcid": "PMC13776934"
+  },
+  {
+    "case": "tyg_pad",
+    "label": "TyG 指数与 PAD 剂量反应",
+    "journal": "Frontiers in Endocrinology",
+    "year": 2026,
+    "design": "系统综述与剂量-反应meta分析；纳入纵向观察性研究（前瞻性队列、回顾性队列、巢式病例对照、RCT数据集事后分析）",
+    "n_studies": 5,
+    "n_publications": 5,
+    "n_patients": 417499,
+    "unit": "研究为检索与纳入单位；主分析以研究为单位（每研究一个最高vs最低TyG类别对比）；剂量反应分析以研究内的TyG暴露类别为单位（4项研究、17个类别）。多次贡献处理：同一研究的多个类别估计用study-clustered稳健协方差估计相关性；每研究取协变量调整最充分模型的估计；重复发表或重叠队列仅保留样本量最大者。",
+    "analysis_group": "按分析类型划分：①分类对比组——全部5项研究，最高vs最低TyG类别；②剂量反应组——4项研究（30、31、33、34）、17个TyG类别，纳入条件为报告调整估计且≥3个定量类别；组内采用线性（每1单位TyG）与限制性立方样条（3节点，10th/50th/90th百分位）模型。",
+    "criteria": [
+      {
+        "id": "T1",
+        "text": "人群（P）：纳入≥18岁成人，来自一般人群或特定临床人群（如高血压或2型糖尿病患者），不限性别、种族、地理区域或医疗场景。",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "PICOS-P；成人≥18岁；一般人群或特定临床人群（如高血压、2型糖尿病）；不限性别、种族、地区、医疗场景"
+      },
+      {
+        "id": "T2",
+        "text": "暴露（I）：基线测定TyG指数；TyG须按分类变量分析（四分位、五分位或研究自定义切点），并报告其与新发PAD的关联。",
+        "type": "A",
+        "formal": "structured",
+        "vis": "high",
+        "ev": "E1",
+        "note": "PICOS-I；传统TyG指数（conventional TyG）；基线测量；分类变量（四分位/五分位/研究自定义切点）；须报告与PAD发病的关联"
+      },
+      {
+        "id": "T3",
+        "text": "对照（C）：TyG较低者，通常为最低暴露类别，或各研究自行定义的参照组。",
+        "type": "A",
+        "formal": "structured",
+        "vis": "high",
+        "ev": "E1",
+        "note": "PICOS-C；对照为较低TyG者，通常为最低暴露类别或研究自定义参照组"
+      },
+      {
+        "id": "T4",
+        "text": "结局（O）：主要结局为纵向随访期间新发PAD，判定方式包括诊断或操作编码、医师诊断、病历、影像或多普勒、踝臂指数（ABI）、血运重建手术或其他研究特异标准。",
+        "type": "A",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "PICOS-O；随访期间新发PAD；判定来源含诊断/操作编码、医师诊断、病历、影像/多普勒、ABI、血运重建或其他研究特异标准"
+      },
+      {
+        "id": "T5",
+        "text": "研究设计（S）：具纵向随访的观察性研究，包括前瞻性队列、回顾性队列、巢式病例对照，或对随机对照试验数据集的事后分析（须有纵向随访）。",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "PICOS-S；前瞻性队列、回顾性队列、巢式病例对照、RCT数据集事后分析"
+      },
+      {
+        "id": "T6",
+        "text": "仅纳入同行评审的全文文章、以英文发表、涉及人体参与者；不限制发表年份。",
+        "type": "B",
+        "formal": "structured",
+        "vis": "high",
+        "ev": "E1",
+        "note": "同行评审全文、英文、人体；不限发表年份"
+      },
+      {
+        "id": "T7",
+        "text": "排除纳入儿童的研究。",
+        "type": "A",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "排除(1)：纳入儿童；P条目要求成人≥18岁"
+      },
+      {
+        "id": "T8",
+        "text": "排除仅评价改良TyG衍生指数（如TyG-体重指数、TyG-腰围、TyG-腰高比、TyG-身体圆度指数或其他复合TyG指数）而未单独报告传统TyG指数结果的研究。",
+        "type": "A",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "排除(2)：TyG-BMI、TyG-WC、TyG-WHtR、TyG-BRI等复合指数；未单独报告传统TyG结果者排除"
+      },
+      {
+        "id": "T9",
+        "text": "排除未报告调整效应估计，或缺乏足够数据以估计效应的研究。",
+        "type": "B",
+        "formal": "judgment",
+        "vis": "low",
+        "ev": "E2",
+        "note": "排除(3)：未报告调整效应估计或数据不足以估计效应"
+      },
+      {
+        "id": "T10",
+        "text": "排除横断面研究、病例对照研究、综述、meta分析、社论、信件、病例报告、病例系列、动物或实验室研究。",
+        "type": "B",
+        "formal": "rule",
+        "vis": "high",
+        "ev": "E1",
+        "note": "排除(4)：横断面、病例对照、综述/meta分析、社论/信件、病例报告/病例系列、动物/实验室研究；S条目另纳入nested case-control"
+      },
+      {
+        "id": "T11",
+        "text": "排除重复发表或队列重叠的研究；遇此情况仅纳入样本量最大的研究。",
+        "type": "B",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "E2",
+        "note": "排除(5)：重复发表或队列重叠；仅保留样本量最大者"
+      },
+      {
+        "id": "T12",
+        "text": "剂量反应meta分析仅纳入报告调整风险估计、且提供至少3个定量TyG类别的研究。",
+        "type": "B",
+        "formal": "structured",
+        "vis": "low",
+        "ev": "analysis",
+        "note": "剂量反应分析的纳入条件；≥3个定量TyG类别且报告调整风险估计"
+      }
+    ],
+    "findings": [
+      {
+        "text": "共纳入5项纵向研究（3项前瞻性队列、1项回顾性队列、1项RCT事后分析），417,499名基线无PAD参与者，7,800例新发PAD（1.9%）。",
+        "source": "Abstract – Results；Results – Summary of study characteristics",
+        "layer": "E1",
+        "kind": "数据充分性"
+      },
+      {
+        "text": "主要合并对比为最高vs最低TyG类别：RR=1.49（95%CI 1.06–2.10），I²=88.4%；5项研究均报告多变量调整效应估计。",
+        "source": "Abstract – Results；Results – Association between TyG index and the risk of PAD；Results – Summary of study characteristics",
+        "layer": "E1",
+        "kind": "分析组"
+      },
+      {
+        "text": "剂量反应分析纳入报告调整估计且≥3个定量TyG类别的4项研究（30、31、33、34），共17个TyG类别（五分位1项、四分位3项）；第5项研究Sbriscia 2025按中位数切点分类（Table 1），未列入该分析。",
+        "source": "Methods – Statistical analysis；Results – Association between TyG index and the risk of PAD；Table 1",
+        "layer": "analysis",
+        "kind": "分析组"
+      },
+      {
+        "text": "剂量反应建模：各TyG类别的代表剂量取报告的均值或中位数，缺失时取上下界中点；开放类别按相邻类别宽度假定；限制性立方样条3个节点置于合并TyG分布的10th/50th/90th百分位。",
+        "source": "Methods – Statistical analysis",
+        "layer": "E2",
+        "kind": "暴露定义"
+      },
+      {
+        "text": "同一研究的多个类别估计用study-clustered稳健协方差处理相关性；多模型可选时取协变量调整最充分模型的估计；重复发表或重叠队列仅保留样本量最大者。",
+        "source": "Methods – Statistical analysis；Methods – Study eligible criteria（排除5）",
+        "layer": "E2",
+        "kind": "单位"
+      }
+    ],
+    "unknown": {
+      "n": 1,
+      "d": 5,
+      "note": "剂量反应分析仅覆盖 4/5 项纳入研究（17 个 TyG 暴露类别）；Sbriscia 2025 按中位数切点分类，未列入剂量反应分析。"
+    },
+    "id": "tyg_pad",
+    "pmid": "43047490",
+    "pmcid": "PMC13773768"
+  }
+]

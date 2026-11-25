@@ -1,0 +1,128 @@
+{
+  "24": {
+    "ref": "24",
+    "query": "[A randomized controlled study of erlotinib versus pemetrexed combined with cisplatin in neoadjuvant therapy of stage IIIA EGFR-mutant lung adenocarcinoma]",
+    "pubmed": [],
+    "crossref": {
+      "results": [
+        {
+          "title": "Neoadjuvant Erlotinib and Surgical Resection of a Stage IIIA Papillary Adenocarcinoma of the Lung with an L861Q Activating EGFR Mutation",
+          "DOI": "10.3747/co.19.908",
+          "year": 2012,
+          "container": "Current Oncology",
+          "abstract": "The use of epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIS) is evolving, as is an understanding of predictive biomarkers for tumour response in non-small-cell lung cancer (NSCLC). In this report, we describe a case of rapidly progressing, borderline-resectable, clinical stage IIIA (micro) papillary adenocarcinoma in a 78-year-old woman who experienced a profound response to neoadjuvant erlotinib without short-term toxicity. On EGFR mutation testing, this patient had an uncommon activating point mutation at L861Q in exon 21. Her response permitted successful surgical resection with negative margins and avoidance of chemoradiation, which she was deemed too frail to tolerate. Our case addresses unique management issues such as preoperative testing for EGFR mutation, utility of histology in predicting EGFR mutations, and use of egfr-tkis pre- and postoperatively for potentially resectable NSCLC."
+        },
+        {
+          "title": "A randomized phase 2 trial of erlotinib versus pemetrexed as second‐line therapy in the treatment of patients with advanced EGFR wild‐type and EGFR FISH‐positive lung adenocarcinoma",
+          "DOI": "10.1002/cncr.28591",
+          "year": 2014,
+          "container": "Cancer",
+          "abstract": "BACKGROUND  The current study was undertaken to investigate the efficacy and safety of erlotinib versus pemetrexed as second‐line therapy for patients with advanced epidermal growth factor receptor (EGFR) wild‐type and EGFR fluorescence in situ hybridization (FISH)‐positive lung adenocarcinoma.    METHODS  In this open‐label, randomized, phase 2 study, patients with EGFR wild‐type and EGFR FISH‐positive adenocarcinoma who had developed disease progression after 1 prior platinum‐based chemotherapy were randomly assigned (1:1) to receive erlotinib or pemetrexed until the time of disease progression or death, unacceptable toxicity, or a request for discontinuation by the patient. The primary endpoint was progression‐free survival (PFS).    RESULTS  A total of 123 patients were enrolled (61 in the erlotinib arm and 62 in the pemetrexed arm). The median PFS was 4.1 months (95% confidence interval [95% CI], 1.6 months‐6.6 months) in the erlotinib group versus 3.9 months (95% CI, 2.7 months‐5.1 months) in the pemetrexed group. The difference in PFS between the 2 treatment groups was not significant (hazard ratio, 0.92; 95% CI, 0.62‐1.37 [ P  = .683]). The objective response rate appeared to be higher among patients receiving erlotinib compared with those receiving pemetrexed (19.7% vs 8.1%;  P  = .062). The 3 most commonly recorded adverse events were rash (54.1%), fatigue (19.7%), and diarrhea (16.4%) in the erlotinib group and fatigue (25.8%), nausea (24.2%), and anorexia (14.5%) in the pemetrexed group.    CONCLUSIONS  There were no significant differences noted with regard to efficacy between erlotinib and pemetrexed in the second‐line setting for patients with advanced EGFR wild‐type and EGFR FISH‐positive lung adenocarcinoma. Both regimens appear to be effective treatment options for these patients.   Cancer  2014;120:1379–1386 . ©  2014 American Cancer Society ."
+        },
+        {
+          "title": "Faculty Opinions recommendation of Erlotinib versus radiation therapy for brain metastases in patients with EGFR-mutant lung adenocarcinoma.",
+          "DOI": "10.3410/f.718331006.793501269",
+          "year": 2014,
+          "container": "Faculty Opinions – Post-Publication Peer Review of the Biomedical Literature",
+          "abstract": ""
+        }
+      ]
+    },
+    "pubmed_pmids": []
+  },
+  "31": {
+    "ref": "31",
+    "query": "Efficacy of erlotinib as neoadjuvant regimen in EGFR-mutant locally advanced non-small cell lung cancer patients",
+    "pubmed": [],
+    "crossref": {
+      "results": [
+        {
+          "title": "Efficacy of erlotinib as neoadjuvant regimen in EGFR-mutant locally advanced non-small cell lung cancer patients",
+          "DOI": "10.1177/0300060519887275",
+          "year": 2019,
+          "container": "Journal of International Medical Research",
+          "abstract": "Background \n                     The optimal neoadjuvant regimen for locally advanced resectable non-small cell lung cancer (NSCLC) remains controversial. EGFR inhibitors have significantly improved survival in patients with EGFR-mutant advanced NSCLC. However, their efficacy in neoadjuvant settings, particularly for treating locally advanced NSCLC, remains unclear. We compared the clinical benefits of chemotherapy and erlotinib as neoadjuvant therapy for stage IIIA NSCLC. \n                   \n                   \n                     Method \n                     Thirty-one treatment-naïve Chinese patients with stage IIIA NSCLC were enrolled. Patients without EGFR mutation received cisplatin-based doublet chemotherapy (n = 16; N-chemo group) while EGFR-mutant patients received erlotinib (n = 15; N-TKI group) as neoadjuvant therapy. \n                   \n                   \n                     Results \n                     After completing neoadjuvant treatment, 12 and 8 patients from the N-TKI and N-chemo groups underwent surgery, respectively. Our data revealed that patients who received erlotinib had a marginally better clinical objective response rate (67% vs. 19%), pathological response rate (67% vs. 38%), and overall survival (51.0 months vs. 20.9 months) compared with those who received chemotherapy. Furthermore, patients in the N-TKI group had a significantly greater reduction in tumor diameter, serum carcinoembryonic level, and maximum allelic fraction. \n                   \n                   \n                     Conclusion \n                     Our findings demonstrate that erlotinib is an effective neoadjuvant regimen in patients with EGFR-mutant locally advanced NSCLC, paving the way for its extended use in neoadjuvant settings. [ClinicalTrials.gov identifier: NCT01217619]"
+        },
+        {
+          "title": "Neoadjuvant chemo-/radiotherapy in locally advanced non-small cell lung cancer",
+          "DOI": "10.1016/0169-5002(94)94495-4",
+          "year": 1994,
+          "container": "Lung Cancer",
+          "abstract": ""
+        },
+        {
+          "title": "Neoadjuvant chemotherapy of locally advanced non-small cell lung cancer",
+          "DOI": "10.1016/0169-5002(95)90715-7",
+          "year": 1995,
+          "container": "Lung Cancer",
+          "abstract": ""
+        }
+      ]
+    },
+    "pubmed_pmids": [],
+    "crossref_error": "'gbk' codec can't encode character '\\xef' in position 592: illegal multibyte sequence"
+  },
+  "35": {
+    "ref": "35",
+    "query": "Erlotinib versus gemcitabine plus cisplatin as neoadjuvant treatment of stage IIIA-N2 EGFR-mutant non-small-cell lung cancer (EMERGING-CTONG 1103): a randomized phase II study",
+    "pubmed": [],
+    "crossref": {
+      "results": [
+        {
+          "title": "9035 POSTER A National, Multi Center, Randomized, Open-label, Phase II Study of Erlotinib Versus Gemcitabine (GEM) Plus Cisplatin as Neoadjuvant Treatment in Stage IIIA-N2 Non-small-cell Lung Cancer (NSCLC) Patients (pts) With Activating EGFR Mutations (C-TONG 1103)",
+          "DOI": "10.1016/s0959-8049(11)72347-4",
+          "year": 2011,
+          "container": "European Journal of Cancer",
+          "abstract": ""
+        },
+        {
+          "title": "Erlotinib Versus Gemcitabine Plus Cisplatin as Neoadjuvant Treatment of Stage IIIA-N2\n                    <i>EGFR</i>\n                    -Mutant Non–Small-Cell Lung Cancer (EMERGING-CTONG 1103): A Randomized Phase II Study",
+          "DOI": "10.1200/jco.19.00075",
+          "year": 2019,
+          "container": "Journal of Clinical Oncology",
+          "abstract": "PURPOSE \n                     To assess the benefits of epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors as neoadjuvant/adjuvant therapies in locally advanced EGFR mutation-positive non–small-cell lung cancer. \n                   \n                   \n                     PATIENTS AND METHODS \n                     \n                      This was a multicenter (17 centers in China), open-label, phase II, randomized controlled trial of erlotinib versus gemcitabine plus cisplatin (GC chemotherapy) as neoadjuvant/adjuvant therapy in patients with stage IIIA-N2 non–small-cell lung cancer with EGFR mutations in exon 19 or 21 (EMERGING). Patients received erlotinib 150 mg/d (neoadjuvant therapy, 42 days; adjuvant therapy, up to 12 months) or gemcitabine 1,250 mg/m\n                       2 \n                      plus cisplatin 75 mg/m\n                       2 \n                      (neoadjuvant therapy, two cycles; adjuvant therapy, up to two cycles). Assessments were performed at 6 weeks and every 3 months postsurgery. The primary end point was objective response rate (ORR) by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1; secondary end points were pathologic complete response, progression-free survival (PFS), overall survival, safety, and tolerability.\n                     \n                   \n                   \n                     RESULTS \n                     Of 386 patients screened, 72 were randomly assigned to treatment (intention-to-treat population), and 71 were included in the safety analysis (one patient withdrew before treatment). The ORR for neoadjuvant erlotinib versus GC chemotherapy was 54.1% versus 34.3% (odds ratio, 2.26; 95% CI, 0.87 to 5.84; P = .092). No pathologic complete response was identified in either arm. Three (9.7%) of 31 patients and zero of 23 patients in the erlotinib and GC chemotherapy arms, respectively, had a major pathologic response. Median PFS was significantly longer with erlotinib (21.5 months) versus GC chemotherapy (11.4 months; hazard ratio, 0.39; 95% CI, 0.23 to 0.67; P &lt; .001). Observed adverse events reflected those most commonly seen with the two treatments. \n                   \n                   \n                     CONCLUSION \n                     The primary end point of ORR with 42 days of neoadjuvant erlotinib was not met, but the secondary end point PFS was significantly improved."
+        },
+        {
+          "title": "Effect of intercalated erlotinib with gemcitabine/cisplatin as neoadjuvant treatment in stage IIIA unrectable non-small cell lung cancer (CTONG 1101, NCT01297101) on disease-free survival: A single arm, multi-center, phase II study.",
+          "DOI": "10.1200/jco.2015.33.15_suppl.e18519",
+          "year": 2015,
+          "container": "Journal of Clinical Oncology",
+          "abstract": ""
+        }
+      ]
+    },
+    "pubmed_pmids": []
+  },
+  "36": {
+    "ref": "36",
+    "query": "Erlotinib versus gemcitabine plus cisplatin as neoadjuvant treatment of stage IIIA-N2 EGFR-mutant non-small-cell lung cancer: final overall survival analysis of the EMERGING-CTONG 1103 randomised phase II trial",
+    "pubmed": [],
+    "crossref": {
+      "results": [
+        {
+          "title": "Erlotinib versus gemcitabine plus cisplatin as neoadjuvant treatment of stage IIIA-N2 EGFR-mutant non-small-cell lung cancer: final overall survival analysis of the EMERGING-CTONG 1103 randomised phase II trial",
+          "DOI": "10.1038/s41392-022-01286-3",
+          "year": 2023,
+          "container": "Signal Transduction and Targeted Therapy",
+          "abstract": "Abstract \n                   \n                    EMERGING-CTONG 1103 showed improved progression-free survival (PFS) with neoadjuvant erlotinib vs. chemotherapy for patients harbouring EGFR sensibility mutations and R0 resected stage IIIA-N2 non-small cell lung cancer (NSCLC) (NCT01407822). Herein, we report the final results. Recruited patients were randomly allocated 1:1 to the erlotinib group (150 mg/day orally; neoadjuvant phase for 42 days and adjuvant phase to 12 months) or to the GC group (gemcitabine 1250 mg/m\n                     2 \n                    plus cisplatin 75 mg/m\n                     2 \n                    intravenously; 2 cycles in neoadjuvant phase and 2 cycles in adjuvant phase). Objective response rate (ORR), complete pathologic response (pCR), PFS, and overall survival (OS) were assessed along with safety. Post hoc analysis was performed for subsequent treatments after disease recurrence. Among investigated 72 patients (erlotinib,\n                     n \n                     = 37; GC,\n                     n \n                     = 35), the median follow-up was 62.5 months. The median OS was 42.2 months (erlotinib) and 36.9 months (GC) (hazard ratio [HR], 0.83; 95% confidence interval [CI], 0.47–1.47;\n                     p \n                     = 0.513). The 3- and 5-year OS rates were 58.6% and 40.8% with erlotinib and 55.9% and 27.6% with GC (\n                     p \n                     3-y \n                     = 0.819,\n                     p \n                     5-y \n                     = 0.252). Subsequent treatment was administered in 71.9% and 81.8% of patients receiving erlotinib and GC, respectively; targeted therapy contributed mostly to OS (HR, 0.35; 95% CI, 0.18–0.70). After disease progression, the ORR was 53.3%, and the median PFS was 10.9 months during the EGFR-TKI rechallenge. During postoperative therapy, grade 3 or 4 adverse events (AEs) were 13.5% in the erlotinib group and 29.4% in the GC group. No serious adverse events were observed. Erlotinib exhibited clinical feasibility for resectable IIIA-N2 NSCLC over chemotherapy in the neoadjuvant setting."
+        },
+        {
+          "title": "CTONG1103: Final overall survival analysis of the randomized phase 2 trial of erlotinib versus gemcitabine plus cisplatin as neoadjuvant treatment of stage IIIA-N2 EGFR-mutant non–small cell lung cancer.",
+          "DOI": "10.1200/jco.2021.39.15_suppl.8502",
+          "year": 2021,
+          "container": "Journal of Clinical Oncology",
+          "abstract": "8502 \n                   \n                    Background: Median Overall survival (mOS) of stage IIIA resected NSCLC was 59.4 months (m) in CTONG 1104 adj gefitinib and 26.2m in SAKK neoadjuvant chemo trial. EMERGING-CTONG1103 showed neo-adjuvant/adjuvant erlotinib treatment significantly improved progression-free survival (PFS) vs standard doublet chemotherapy in patients (pts) with epidermal growth factor receptor ( EGFR) mutation-positive resectable stage IIIA (N2) non-small-cell lung cancer (NSCLC). Here, we present the final overall survival (OS) results from the study. Methods: This was a multicenter (17 centers in China) phase II randomized controlled trial of erlotinib（E）versus gemcitabine plus cisplatin (GC) as neoadjuvant/adjuvant therapy in pts with stage IIIA-N2 NSCLC with EGFR mutations in exon 19 or 21. From Dec 2011 to Dec. 2017, 386 pts sites were screened and 72 pts were randomly assigned to neoadjuvant/adjuvant E arm (N = 37) or GC arm(N = 35). Patients received erlotinib 150 mg/d (neoadjuvant therapy, 42 days; adjuvant therapy, up to 12 months) or gemcitabine 1,250 mg/m\n                     2 \n                    plus cisplatin 75 mg/m\n                     2 \n                    (neoadjuvant therapy, two cycles; adjuvant therapy, up to two cycles). Assessments were performed at 6 weeks and every 3 months postoperative. The primary end point was objective response rate (ORR) by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1; secondary end points were pathologic complete response, downstaging rates of pathological lymph nodes, PFS, OS, safety, and tolerability. Data cut-off date was January, 29 2021. Results: With a median follow-up of 62.5 months, the median OS was 42.2months based on 47 (65.3%) events in ITT whole population. The mOS was 42.2m in E and 36.9m in GC (HR 0.83, 95%CI 0.47-1.47, p = 0.513). The 3-,5-year OS rate were 58.6%, 40.8% in E and 55.9%, 27.6% in GC respectively (p3-y = 0.819, p5-y = 0.252). All predefined subgroups including age, gender, EGFR mutation type had no significant difference in statistics between two arms. Subsequent treatments (ST) especially targeted therapy contributed most to OS (HR = 0.35,95% CI 0.18- 0.70). Median OS of pts receiving ST was 45.8m (n = 38), 34.6m in other treatment (n = 12), 24.6m in without ST (n = 15). For E mOS were 46.4 (n = 15; target therapy), 42.2m (n = 8; other) and 24.6m (n = 9; without, p = 0.021), for GC 42.6 (n = 23; target therapy), 30.1m (n = 4;other) and 24.6m(n = 6; without, p = 0.130). The RR was 53.3%, DCR 93.3%, mPFS 10.9m and mPPS 21.9m for patients with rechallenged EGFR TKI in E arm (n = 15). No novel unexpected SAE was observed during follow up. Conclusion: Erlotinib as neoadjuvant/adjuvant therapy for resected N2 NSCLC was feasibility and had a promising OS. The PFS survival advantage of E did not translate to OS difference in EMERGING trial (NCT01407822). Clinical trial information: NCT01407822."
+        },
+        {
+          "title": "9035 POSTER A National, Multi Center, Randomized, Open-label, Phase II Study of Erlotinib Versus Gemcitabine (GEM) Plus Cisplatin as Neoadjuvant Treatment in Stage IIIA-N2 Non-small-cell Lung Cancer (NSCLC) Patients (pts) With Activating EGFR Mutations (C-TONG 1103)",
+          "DOI": "10.1016/s0959-8049(11)72347-4",
+          "year": 2011,
+          "container": "European Journal of Cancer",
+          "abstract": ""
+        }
+      ]
+    },
+    "pubmed_pmids": [],
+    "crossref_error": "'gbk' codec can't encode character '\\u2009' in position 404: illegal multibyte sequence"
+  }
+}

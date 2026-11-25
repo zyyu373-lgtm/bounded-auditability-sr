@@ -1,0 +1,219 @@
+{
+  "review": {
+    "title": "Neoadjuvant Chemoimmunotherapy for NSCLC: A Systematic Review and Meta-Analysis",
+    "journal": "JAMA Oncology",
+    "year": 2024,
+    "doi": "10.1001/jamaoncol.2024.0057",
+    "pmid": "38512301",
+    "pmcid": "PMC10958389",
+    "prospero": "CRD42023392998",
+    "prisma": "2020"
+  },
+  "criteria": [
+    {
+      "id": "P1",
+      "dimension": "population",
+      "value": "adult",
+      "type": "inclusion",
+      "text": "Only studies with adult patients were included.",
+      "stage": "full_text",
+      "formalizability": "structured",
+      "note": "No age threshold is specified; 'adult' needs an operational definition (e.g., >=18 years)."
+    },
+    {
+      "id": "P2",
+      "dimension": "population",
+      "value": "resectable_nsclc",
+      "type": "inclusion",
+      "text": "Patients with resectable lung cancer / resectable NSCLC.",
+      "stage": "title_abstract_and_full_text",
+      "formalizability": "semantic",
+      "note": "'Resectable' is not operationalized; it depends on stage, surgical assessment, and local practice."
+    },
+    {
+      "id": "P3",
+      "dimension": "population",
+      "value": "tnm_staging_used",
+      "type": "inclusion",
+      "text": "Studies that did not use TNM staging were excluded.",
+      "stage": "full_text",
+      "formalizability": "structured",
+      "note": "TNM version and the minimum staging information required are not specified."
+    },
+    {
+      "id": "P4",
+      "dimension": "population",
+      "value": "egfr_variant_only",
+      "type": "exclusion",
+      "text": "Studies that included only patients with NSCLC with EGFR variants were excluded.",
+      "stage": "full_text",
+      "formalizability": "structured",
+      "note": "The scope of 'EGFR variants' is not specified (any EGFR alteration vs. sensitizing mutations only)."
+    },
+    {
+      "id": "I1",
+      "dimension": "intervention",
+      "value": "neoadjuvant_chemoimmunotherapy",
+      "type": "inclusion",
+      "text": "Neoadjuvant chemoimmunotherapy.",
+      "stage": "title_abstract_and_full_text",
+      "formalizability": "semantic",
+      "note": "The composition of 'chemoimmunotherapy' (drug classes, cycles, sequencing) is not defined."
+    },
+    {
+      "id": "I2",
+      "dimension": "intervention",
+      "value": "neoadjuvant_chemotherapy",
+      "type": "inclusion",
+      "text": "Neoadjuvant chemotherapy.",
+      "stage": "title_abstract_and_full_text",
+      "formalizability": "rule",
+      "note": "Usually identifiable from the regimen name; platinum agent may vary."
+    },
+    {
+      "id": "D1",
+      "dimension": "study_design",
+      "value": "rct_or_single_arm_trial",
+      "type": "inclusion",
+      "text": "Published single-arm trials and RCTs.",
+      "stage": "title_abstract",
+      "formalizability": "structured",
+      "note": "Study design is often stated in the abstract, but not always; full text may be needed."
+    },
+    {
+      "id": "D2",
+      "dimension": "study_design",
+      "value": "observational",
+      "type": "exclusion",
+      "text": "Observational studies were excluded.",
+      "stage": "title_abstract_and_full_text",
+      "formalizability": "rule",
+      "note": "Requires a clear operational definition of observational design."
+    },
+    {
+      "id": "D3",
+      "dimension": "study_design",
+      "value": "retrospective",
+      "type": "exclusion",
+      "text": "Retrospective studies were excluded.",
+      "stage": "title_abstract_and_full_text",
+      "formalizability": "rule",
+      "note": "Requires a clear operational definition of retrospective design."
+    },
+    {
+      "id": "D4",
+      "dimension": "publication_type",
+      "value": "trial_level_data",
+      "type": "inclusion",
+      "text": "Published articles reporting trial-level data related to neoadjuvant chemotherapy or neoadjuvant chemoimmunotherapy.",
+      "stage": "title_abstract_and_full_text",
+      "formalizability": "semantic",
+      "note": "'Trial-level data' is not defined; it may exclude pooled analyses, subgroup reports, and some follow-up publications."
+    },
+    {
+      "id": "D5",
+      "dimension": "publication_type",
+      "value": "abstract_without_trial_level_evidence",
+      "type": "exclusion",
+      "text": "Abstracts, conference proceedings, retrospective studies, editorials, comments, gray literature, and all other publication types without trial-level evidence were excluded.",
+      "stage": "title_abstract",
+      "formalizability": "semantic",
+      "note": "The scope of 'without trial-level evidence' is ambiguous; the review later included 6 conference abstracts with trial-level data."
+    },
+    {
+      "id": "D6",
+      "dimension": "publication_type",
+      "value": "editorial_comment_gray_literature",
+      "type": "exclusion",
+      "text": "Editorials, comments, and gray literature were excluded.",
+      "stage": "title_abstract",
+      "formalizability": "rule",
+      "note": "Publication type is usually visible from the record metadata."
+    },
+    {
+      "id": "T1",
+      "dimension": "treatment",
+      "value": "radiotherapy_or_chemoradiotherapy",
+      "type": "exclusion",
+      "text": "Trials reporting the use of neoadjuvant radiotherapy, including chemoradiotherapy, were excluded.",
+      "stage": "title_abstract_and_full_text",
+      "formalizability": "rule",
+      "note": "Usually identifiable from the regimen name."
+    },
+    {
+      "id": "T2",
+      "dimension": "treatment",
+      "value": "molecular_targeted_therapy",
+      "type": "exclusion",
+      "text": "Trials reporting the use of molecular targeted therapy were excluded.",
+      "stage": "title_abstract_and_full_text",
+      "formalizability": "rule",
+      "note": "Usually identifiable from the drug name."
+    },
+    {
+      "id": "T3",
+      "dimension": "treatment",
+      "value": "immunotherapy_monotherapy",
+      "type": "exclusion",
+      "text": "Trials reporting the use of immunotherapy monotherapy were excluded.",
+      "stage": "title_abstract_and_full_text",
+      "formalizability": "semantic",
+      "note": "Distinguishing monotherapy from combination therapy requires regimen details; abstracts may not report them."
+    },
+    {
+      "id": "L1",
+      "dimension": "language",
+      "value": "no_language_restriction",
+      "type": "inclusion",
+      "text": "No language restriction.",
+      "stage": "not_applicable",
+      "formalizability": "rule",
+      "note": "Language is a metadata field; no semantic judgment needed."
+    },
+    {
+      "id": "Y1",
+      "dimension": "date",
+      "value": "published_from_2013",
+      "type": "inclusion",
+      "text": "Studies published from 2013 onward; search last updated October 25, 2023.",
+      "stage": "title_abstract",
+      "formalizability": "rule",
+      "note": "Publication date is a metadata field; the search end date is a separate temporal boundary."
+    }
+  ],
+  "pico_coverage": {
+    "population": true,
+    "intervention": true,
+    "comparator": true,
+    "outcome": false,
+    "study_design": true,
+    "publication_type": true,
+    "language": true,
+    "date": true
+  },
+  "pico_notes": {
+    "comparator": "Chemotherapy is specified as the comparator for comparative analyses; single-arm trials are eligible without a comparator, so a comparator is not a universal eligibility condition.",
+    "outcome": "No outcome restriction is stated; outcomes are defined by the analysis rather than by eligibility."
+  },
+  "workflow": {
+    "reviewers_total": 9,
+    "title_abstract_reviewers_per_record": 2,
+    "full_text_reviewers_per_record": 2,
+    "adjudicator": 1,
+    "independence": true,
+    "inclusion_requires_full_text": true,
+    "exclusion_reason_required": false,
+    "exclusion_reason_note": "The main text reports the number excluded at full text but does not list reasons; PRISMA 2020 requires reasons for exclusion.",
+    "inter_rater_reliability_reported": false
+  },
+  "flow": {
+    "identified_total": 642,
+    "unique": 602,
+    "title_abstract_excluded": 519,
+    "full_text_excluded": 41,
+    "publications_included": 42,
+    "abstracts_included": 6,
+    "trials": 43,
+    "follow_up_studies": 5
+  }
+}

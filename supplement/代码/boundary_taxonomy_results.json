@@ -1,0 +1,134 @@
+{
+  "criteria": [
+    {
+      "id": "P4",
+      "dimension": "人群",
+      "formalizability": "structured",
+      "visibility": "high",
+      "T": 3,
+      "verified": 3,
+      "title_only": 0,
+      "U": 44,
+      "note": "24、35、36；31 撤回",
+      "cell": "高可形式化 / 高可见"
+    },
+    {
+      "id": "D2",
+      "dimension": "设计",
+      "formalizability": "rule",
+      "visibility": "high",
+      "T": 1,
+      "verified": 0,
+      "title_only": 1,
+      "U": 46,
+      "note": "46，标题级",
+      "cell": "高可形式化 / 高可见"
+    },
+    {
+      "id": "D3",
+      "dimension": "设计",
+      "formalizability": "rule",
+      "visibility": "low",
+      "T": 0,
+      "verified": 0,
+      "title_only": 0,
+      "U": 47,
+      "note": "50、58、59 需全文",
+      "cell": "高可形式化 / 低可见"
+    },
+    {
+      "id": "D5",
+      "dimension": "发表类型",
+      "formalizability": "semantic",
+      "visibility": "high",
+      "T": 0,
+      "verified": 0,
+      "title_only": 0,
+      "U": 0,
+      "note": "宽松 0；严格 6",
+      "cell": "低可形式化 / 高可见"
+    },
+    {
+      "id": "D6",
+      "dimension": "发表类型",
+      "formalizability": "rule",
+      "visibility": "high",
+      "T": 0,
+      "verified": 0,
+      "title_only": 0,
+      "U": 0,
+      "note": "无社论/评论",
+      "cell": "高可形式化 / 高可见"
+    },
+    {
+      "id": "T1",
+      "dimension": "治疗",
+      "formalizability": "rule",
+      "visibility": "high",
+      "T": 1,
+      "verified": 0,
+      "title_only": 1,
+      "U": 47,
+      "note": "22，标题级",
+      "cell": "高可形式化 / 高可见"
+    },
+    {
+      "id": "T2",
+      "dimension": "治疗",
+      "formalizability": "rule",
+      "visibility": "high",
+      "T": 6,
+      "verified": 4,
+      "title_only": 2,
+      "U": 42,
+      "note": "24、31、35、36 摘要级；33、42 标题级",
+      "cell": "高可形式化 / 高可见"
+    },
+    {
+      "id": "T3",
+      "dimension": "治疗",
+      "formalizability": "semantic",
+      "visibility": "low",
+      "T": 0,
+      "verified": 0,
+      "title_only": 0,
+      "U": 48,
+      "note": "标题无 monotherapy",
+      "cell": "低可形式化 / 低可见"
+    }
+  ],
+  "cells": {
+    "高可形式化 / 高可见": {
+      "criteria": [
+        "P4",
+        "D2",
+        "D6",
+        "T1",
+        "T2"
+      ],
+      "T": 11,
+      "U": 179
+    },
+    "高可形式化 / 低可见": {
+      "criteria": [
+        "D3"
+      ],
+      "T": 0,
+      "U": 47
+    },
+    "低可形式化 / 高可见": {
+      "criteria": [
+        "D5"
+      ],
+      "T": 0,
+      "U": 0
+    },
+    "低可形式化 / 低可见": {
+      "criteria": [
+        "T3"
+      ],
+      "T": 0,
+      "U": 48
+    }
+  }
+}

@@ -1,0 +1,2145 @@
+{
+  "tyg_pad": {
+    "audit": {
+      "case": "tyg_pad",
+      "units": [
+        "Sánchez-Íñigo 2016",
+        "Gao 2021",
+        "Sbriscia 2025",
+        "Xiao 2025",
+        "Zhao 2026"
+      ],
+      "criteria": [
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "T5",
+        "T6",
+        "T7",
+        "T8",
+        "T9",
+        "T10",
+        "T11",
+        "T12"
+      ],
+      "cells": [
+        {
+          "unit": "Sánchez-Íñigo 2016",
+          "criterion": "T1",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：平均年龄54.4岁，门诊成人队列"
+        },
+        {
+          "unit": "Sánchez-Íñigo 2016",
+          "criterion": "T2",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：Q5:Q1五分位分类；PAD 74例"
+        },
+        {
+          "unit": "Sánchez-Íñigo 2016",
+          "criterion": "T3",
+          "status": "T",
+          "ev": "E1",
+          "note": "Q5:Q1比较，最低五分位为参照"
+        },
+        {
+          "unit": "Sánchez-Íñigo 2016",
+          "criterion": "T4",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：ICD-10编码；正文称基线无PAD"
+        },
+        {
+          "unit": "Sánchez-Íñigo 2016",
+          "criterion": "T5",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1设计：前瞻性队列（PC）"
+        },
+        {
+          "unit": "Sánchez-Íñigo 2016",
+          "criterion": "T6",
+          "status": "T",
+          "ev": "E2",
+          "note": "纳入推断：英文同行评审全文人体研究"
+        },
+        {
+          "unit": "Sánchez-Íñigo 2016",
+          "criterion": "T7",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1平均54.4岁，门诊成人队列"
+        },
+        {
+          "unit": "Sánchez-Íñigo 2016",
+          "criterion": "T8",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1报告传统TyG切点8.8（Q5:Q1）"
+        },
+        {
+          "unit": "Sánchez-Íñigo 2016",
+          "criterion": "T9",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1列年龄、性别、BMI等调整变量"
+        },
+        {
+          "unit": "Sánchez-Íñigo 2016",
+          "criterion": "T10",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1设计为前瞻队列，非横断面/病例对照"
+        },
+        {
+          "unit": "Sánchez-Íñigo 2016",
+          "criterion": "T11",
+          "status": "U",
+          "ev": "E0",
+          "note": "综述 Methods 排除标准(5)已报告重复发表/重叠队列的处理规则（仅保留样本量最大者），但表 1 与结果未逐研究报告本研究的队列重叠核查结果"
+        },
+        {
+          "unit": "Sánchez-Íñigo 2016",
+          "criterion": "T12",
+          "status": "T",
+          "ev": "E2",
+          "note": "结果纳入剂量反应（4研究17类）；本研究报告五分位"
+        },
+        {
+          "unit": "Gao 2021",
+          "criterion": "T1",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：平均年龄54.3岁，社区中年队列"
+        },
+        {
+          "unit": "Gao 2021",
+          "criterion": "T2",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：Q4:Q1四分位分类；PAD 1300例"
+        },
+        {
+          "unit": "Gao 2021",
+          "criterion": "T3",
+          "status": "T",
+          "ev": "E1",
+          "note": "Q4:Q1比较，最低四分位为参照"
+        },
+        {
+          "unit": "Gao 2021",
+          "criterion": "T4",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：住院/操作编码或ABI<0.90；基线无PAD"
+        },
+        {
+          "unit": "Gao 2021",
+          "criterion": "T5",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1设计：前瞻性队列（PC）"
+        },
+        {
+          "unit": "Gao 2021",
+          "criterion": "T6",
+          "status": "T",
+          "ev": "E2",
+          "note": "纳入推断：英文同行评审全文人体研究"
+        },
+        {
+          "unit": "Gao 2021",
+          "criterion": "T7",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1平均54.3岁，社区中年队列"
+        },
+        {
+          "unit": "Gao 2021",
+          "criterion": "T8",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1报告传统TyG切点9.1（Q4:Q1）"
+        },
+        {
+          "unit": "Gao 2021",
+          "criterion": "T9",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1列年龄、种族、BMI等调整变量"
+        },
+        {
+          "unit": "Gao 2021",
+          "criterion": "T10",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1设计为前瞻队列，非横断面/病例对照"
+        },
+        {
+          "unit": "Gao 2021",
+          "criterion": "T11",
+          "status": "U",
+          "ev": "E0",
+          "note": "综述 Methods 排除标准(5)已报告重复发表/重叠队列的处理规则（仅保留样本量最大者），但表 1 与结果未逐研究报告本研究的队列重叠核查结果"
+        },
+        {
+          "unit": "Gao 2021",
+          "criterion": "T12",
+          "status": "T",
+          "ev": "E2",
+          "note": "结果纳入剂量反应（4研究17类）；本研究报告四分位"
+        },
+        {
+          "unit": "Sbriscia 2025",
+          "criterion": "T1",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：平均年龄67.0岁，T2D成人队列"
+        },
+        {
+          "unit": "Sbriscia 2025",
+          "criterion": "T2",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：按中位数二分类；PAD 53例"
+        },
+        {
+          "unit": "Sbriscia 2025",
+          "criterion": "T3",
+          "status": "T",
+          "ev": "E2",
+          "note": "中位数二分类，高组对低组（纳入推断）"
+        },
+        {
+          "unit": "Sbriscia 2025",
+          "criterion": "T4",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：临床评估+多普勒；基线无PAD"
+        },
+        {
+          "unit": "Sbriscia 2025",
+          "criterion": "T5",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1设计：回顾性队列（RC）"
+        },
+        {
+          "unit": "Sbriscia 2025",
+          "criterion": "T6",
+          "status": "T",
+          "ev": "E2",
+          "note": "纳入推断：英文同行评审全文人体研究"
+        },
+        {
+          "unit": "Sbriscia 2025",
+          "criterion": "T7",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1平均67.0岁，T2D成人队列"
+        },
+        {
+          "unit": "Sbriscia 2025",
+          "criterion": "T8",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1报告传统TyG切点9.1（中位数）"
+        },
+        {
+          "unit": "Sbriscia 2025",
+          "criterion": "T9",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1列年龄、性别、HbA1c等调整变量"
+        },
+        {
+          "unit": "Sbriscia 2025",
+          "criterion": "T10",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1设计为回顾队列，非横断面/病例对照"
+        },
+        {
+          "unit": "Sbriscia 2025",
+          "criterion": "T11",
+          "status": "U",
+          "ev": "E0",
+          "note": "综述 Methods 排除标准(5)已报告重复发表/重叠队列的处理规则（仅保留样本量最大者），但表 1 与结果未逐研究报告本研究的队列重叠核查结果"
+        },
+        {
+          "unit": "Sbriscia 2025",
+          "criterion": "T12",
+          "status": "F",
+          "ev": "E2",
+          "note": "仅中位数二分类（2类），未纳入剂量反应分析"
+        },
+        {
+          "unit": "Xiao 2025",
+          "criterion": "T1",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：平均年龄67.9岁，高血压成人队列"
+        },
+        {
+          "unit": "Xiao 2025",
+          "criterion": "T2",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：Q4:Q1四分位分类；PAD 161例"
+        },
+        {
+          "unit": "Xiao 2025",
+          "criterion": "T3",
+          "status": "T",
+          "ev": "E1",
+          "note": "Q4:Q1比较，最低四分位为参照"
+        },
+        {
+          "unit": "Xiao 2025",
+          "criterion": "T4",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：血运重建或客观确诊PAD；基线无PAD"
+        },
+        {
+          "unit": "Xiao 2025",
+          "criterion": "T5",
+          "status": "T",
+          "ev": "E2",
+          "note": "表1：Post-hoc；正文称临床试验事后分析（纳入推断）"
+        },
+        {
+          "unit": "Xiao 2025",
+          "criterion": "T6",
+          "status": "T",
+          "ev": "E2",
+          "note": "纳入推断：英文同行评审全文人体研究"
+        },
+        {
+          "unit": "Xiao 2025",
+          "criterion": "T7",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1平均67.9岁，高血压成人队列"
+        },
+        {
+          "unit": "Xiao 2025",
+          "criterion": "T8",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1报告传统TyG切点8.9（Q4:Q1）"
+        },
+        {
+          "unit": "Xiao 2025",
+          "criterion": "T9",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1列年龄、性别、Framingham评分等调整变量"
+        },
+        {
+          "unit": "Xiao 2025",
+          "criterion": "T10",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1设计为试验事后分析，非排除设计"
+        },
+        {
+          "unit": "Xiao 2025",
+          "criterion": "T11",
+          "status": "U",
+          "ev": "E0",
+          "note": "综述 Methods 排除标准(5)已报告重复发表/重叠队列的处理规则（仅保留样本量最大者），但表 1 与结果未逐研究报告本研究的队列重叠核查结果"
+        },
+        {
+          "unit": "Xiao 2025",
+          "criterion": "T12",
+          "status": "T",
+          "ev": "E2",
+          "note": "结果纳入剂量反应（4研究17类）；本研究报告四分位"
+        },
+        {
+          "unit": "Zhao 2026",
+          "criterion": "T1",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：平均年龄56.5岁，社区成人队列"
+        },
+        {
+          "unit": "Zhao 2026",
+          "criterion": "T2",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：Q4:Q1四分位分类；PAD 6212例"
+        },
+        {
+          "unit": "Zhao 2026",
+          "criterion": "T3",
+          "status": "T",
+          "ev": "E1",
+          "note": "Q4:Q1比较，最低四分位为参照"
+        },
+        {
+          "unit": "Zhao 2026",
+          "criterion": "T4",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1：自报、ICD-9/10或OPCS-4编码；基线无PAD"
+        },
+        {
+          "unit": "Zhao 2026",
+          "criterion": "T5",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1设计：前瞻性队列（PC）"
+        },
+        {
+          "unit": "Zhao 2026",
+          "criterion": "T6",
+          "status": "T",
+          "ev": "E2",
+          "note": "纳入推断：英文同行评审全文人体研究"
+        },
+        {
+          "unit": "Zhao 2026",
+          "criterion": "T7",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1平均56.5岁，社区成人队列"
+        },
+        {
+          "unit": "Zhao 2026",
+          "criterion": "T8",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1报告传统TyG切点9.1（Q4:Q1）"
+        },
+        {
+          "unit": "Zhao 2026",
+          "criterion": "T9",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1列年龄、性别、Townsend指数等调整变量"
+        },
+        {
+          "unit": "Zhao 2026",
+          "criterion": "T10",
+          "status": "T",
+          "ev": "E1",
+          "note": "表1设计为前瞻队列，非横断面/病例对照"
+        },
+        {
+          "unit": "Zhao 2026",
+          "criterion": "T11",
+          "status": "U",
+          "ev": "E0",
+          "note": "综述 Methods 排除标准(5)已报告重复发表/重叠队列的处理规则（仅保留样本量最大者），但表 1 与结果未逐研究报告本研究的队列重叠核查结果"
+        },
+        {
+          "unit": "Zhao 2026",
+          "criterion": "T12",
+          "status": "T",
+          "ev": "E2",
+          "note": "结果纳入剂量反应（4研究17类）；本研究报告四分位"
+        }
+      ],
+      "narrative": "Fu 2026 的 60 个格子中 T 54、F 1、U 5，未知负载 8.3%（5/60）。5 个 U 全部落在 T11：综述在 Methods 排除标准(5)写明了重复发表/重叠队列的处理规则（仅保留样本量最大者），但没有逐研究报告这五项研究的重叠核查结果，故逐研究状态无法判定。唯一的 F 是 Sbriscia 2025 的 T12：该研究仅按中位数二分类，只有 2 个 TyG 类别，未进入 4 项研究、17 个类别的剂量反应分析。其余格子大多可由表 1 的切点、设计、诊断与调整变量直接判定；T6（同行评审全文、英文、人体）依赖纳入推断，记为 E2。可见本案例的未知负载虽低，但并非为零：当纳入标准涉及“重叠队列如何处理”这类过程性事实时，规则已写而逐研究事实不在，审计只能落到 U。",
+      "design": "纵向观察性（剂量反应）",
+      "counts": {
+        "T": 54,
+        "U": 5,
+        "F": 1
+      }
+    },
+    "verification": {
+      "case": "tyg_pad",
+      "checked": 60,
+      "issues": [
+        {
+          "unit": "Sánchez-Íñigo 2016",
+          "criterion": "T11",
+          "current": "U（E0）；note：表与正文未报告重复发表或队列重叠处理",
+          "suggested": "保留 U；note 改为：综述 Methods 排除标准(5)已报告重复发表/重叠队列的处理规则（仅保留样本量最大者），但表1与结果未逐研究报告本研究的队列重叠核查结果",
+          "problem": "原文 Methods「Study eligible criteria」排除标准(5)明确写明“represented duplicate publications or overlapping cohorts, in which case only the study with the largest sample size was included”。因此“表与正文未报告……处理”的表述与原文不符：规则已在正文报告，缺的是逐研究的重叠核查事实。U 状态按逐研究口径可保留，但 note 应区分“规则已写”与“逐研究事实不在”，否则会被读成综述完全未处理重复/重叠。",
+          "severity": "low"
+        },
+        {
+          "unit": "Gao 2021",
+          "criterion": "T11",
+          "current": "U（E0）；note：表与正文未报告重复发表或队列重叠处理",
+          "suggested": "保留 U；note 改为：综述 Methods 排除标准(5)已报告重复发表/重叠队列的处理规则（仅保留样本量最大者），但表1与结果未逐研究报告本研究的队列重叠核查结果",
+          "problem": "原文 Methods「Study eligible criteria」排除标准(5)明确写明“represented duplicate publications or overlapping cohorts, in which case only the study with the largest sample size was included”。因此“表与正文未报告……处理”的表述与原文不符：规则已在正文报告，缺的是逐研究的重叠核查事实。U 状态按逐研究口径可保留，但 note 应区分“规则已写”与“逐研究事实不在”，否则会被读成综述完全未处理重复/重叠。",
+          "severity": "low"
+        },
+        {
+          "unit": "Sbriscia 2025",
+          "criterion": "T11",
+          "current": "U（E0）；note：表与正文未报告重复发表或队列重叠处理",
+          "suggested": "保留 U；note 改为：综述 Methods 排除标准(5)已报告重复发表/重叠队列的处理规则（仅保留样本量最大者），但表1与结果未逐研究报告本研究的队列重叠核查结果",
+          "problem": "原文 Methods「Study eligible criteria」排除标准(5)明确写明“represented duplicate publications or overlapping cohorts, in which case only the study with the largest sample size was included”。因此“表与正文未报告……处理”的表述与原文不符：规则已在正文报告，缺的是逐研究的重叠核查事实。U 状态按逐研究口径可保留，但 note 应区分“规则已写”与“逐研究事实不在”，否则会被读成综述完全未处理重复/重叠。",
+          "severity": "low"
+        },
+        {
+          "unit": "Xiao 2025",
+          "criterion": "T11",
+          "current": "U（E0）；note：表与正文未报告重复发表或队列重叠处理",
+          "suggested": "保留 U；note 改为：综述 Methods 排除标准(5)已报告重复发表/重叠队列的处理规则（仅保留样本量最大者），但表1与结果未逐研究报告本研究的队列重叠核查结果",
+          "problem": "原文 Methods「Study eligible criteria」排除标准(5)明确写明“represented duplicate publications or overlapping cohorts, in which case only the study with the largest sample size was included”。因此“表与正文未报告……处理”的表述与原文不符：规则已在正文报告，缺的是逐研究的重叠核查事实。U 状态按逐研究口径可保留，但 note 应区分“规则已写”与“逐研究事实不在”，否则会被读成综述完全未处理重复/重叠。",
+          "severity": "low"
+        },
+        {
+          "unit": "Zhao 2026",
+          "criterion": "T11",
+          "current": "U（E0）；note：表与正文未报告重复发表或队列重叠处理",
+          "suggested": "保留 U；note 改为：综述 Methods 排除标准(5)已报告重复发表/重叠队列的处理规则（仅保留样本量最大者），但表1与结果未逐研究报告本研究的队列重叠核查结果",
+          "problem": "原文 Methods「Study eligible criteria」排除标准(5)明确写明“represented duplicate publications or overlapping cohorts, in which case only the study with the largest sample size was included”。因此“表与正文未报告……处理”的表述与原文不符：规则已在正文报告，缺的是逐研究的重叠核查事实。U 状态按逐研究口径可保留，但 note 应区分“规则已写”与“逐研究事实不在”，否则会被读成综述完全未处理重复/重叠。",
+          "severity": "low"
+        },
+        {
+          "unit": "narrative（汇总说明）",
+          "criterion": "T11",
+          "current": "5 个 U 全落 T11，未知负载 8.3%（5/60）；称“表与正文均未报告重复发表或队列重叠处理”",
+          "suggested": "保留 5 U/60（8.3%）；叙述改为：综述 Methods 排除标准(5)报告了重复发表/重叠队列的处理规则（仅保留最大样本量），但未逐研究报告这五项研究的重叠核查结果；删去“主文与表格不报告处理”的表述",
+          "problem": "narrative 把 U 的依据写成“表与正文均未报告处理”，与原文 Methods 排除标准(5)冲突；“报告不足”应限定为逐研究的重叠核查事实缺失，而非主文完全不报告。未知负载计数本身可保留。",
+          "severity": "medium"
+        }
+      ]
+    }
+  },
+  "bfr_umbrella": {
+    "audit": {
+      "case": "bfr_umbrella",
+      "units": [
+        "Fabero-Garrido 2022",
+        "Fabero-Garrido 2024",
+        "Gronlund 2020",
+        "Hsieh 2024",
+        "Labata-Lezaun 2022",
+        "Maciel Batista 2020",
+        "Rodrigo-Mallorca 2021",
+        "Silva 2024",
+        "Tiss 2025"
+      ],
+      "criteria": [
+        "U1 纳入对象为系统综述、Meta 分析或网络 Meta 分析",
+        "U2 评价 BFR（血流限制）运动训练",
+        "U3 目标人群为 60 岁及以上成人",
+        "U4 综述明确以老年人为目标人群",
+        "U5 综述报告的原始研究年龄信息与 ≥60 岁人群相容",
+        "U6 仅平均年龄 ≥60 不足以判定完全直接；已知 <60、门槛 <60 或年龄报告不一致记为 indirectness",
+        "U7 混合年龄且无法分离老年人数据者，仅归为支持/敏感性证据或单独临床亚组",
+        "U8 排除研究方案与会议摘要",
+        "U9 排除叙述性综述、范围综述与非 BFR 特异性伞状综述",
+        "U10 排除运动员或超出老年人边界的混合成人人群",
+        "U11 干预属规定的 BFR 运动类别",
+        "U12 对照属规定的类别（无 BFR 低负荷、高负荷、常规康复、常规照护、替代 BFR）",
+        "U13 主要结局为安全性与耐受性",
+        "U14 次要结局为肌力、肌肉肥大、躯体功能、步态、活动能力、跌倒相关结局与心肺适能"
+      ],
+      "cells": [
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U1 纳入对象为系统综述、Meta 分析或网络 Meta 分析",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：系统综述与Meta分析"
+        },
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U2 评价 BFR（血流限制）运动训练",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：低负荷BFR抗阻20–40%1RM"
+        },
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U3 目标人群为 60 岁及以上成人",
+          "status": "T",
+          "ev": "E1",
+          "note": "正文定位>60岁健康成人；个体<60未排除"
+        },
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U4 综述明确以老年人为目标人群",
+          "status": "T",
+          "ev": "E1",
+          "note": "正文定位>60岁健康成人"
+        },
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U5 综述报告的原始研究年龄信息与 ≥60 岁人群相容",
+          "status": "T",
+          "ev": "E0",
+          "note": "均龄62.74–76.35，与≥60相容；个体未排除"
+        },
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U6 仅平均年龄 ≥60 不足以判定完全直接；已知 <60、门槛 <60 或年龄报告不一致记为 indirectness",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅均龄，个体<60不能排除，不能判完全直接"
+        },
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U7 混合年龄且无法分离老年人数据者，仅归为支持/敏感性证据或单独临床亚组",
+          "status": "U",
+          "ev": "E1",
+          "note": "仅均龄，混合年龄及可分离性未报告"
+        },
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U8 排除研究方案与会议摘要",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断：已发表SR/MA，非方案/摘要"
+        },
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U9 排除叙述性综述、范围综述与非 BFR 特异性伞状综述",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：系统综述与Meta分析"
+        },
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U10 排除运动员或超出老年人边界的混合成人人群",
+          "status": "T",
+          "ev": "E1",
+          "note": "健康>60岁成人；非运动员或混合成人"
+        },
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U11 干预属规定的 BFR 运动类别",
+          "status": "T",
+          "ev": "E0",
+          "note": "LL-BFR抗阻训练，20–40%1RM"
+        },
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U12 对照属规定的类别（无 BFR 低负荷、高负荷、常规康复、常规照护、替代 BFR）",
+          "status": "T",
+          "ev": "E0",
+          "note": "高负荷RT或低负荷无BFR"
+        },
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U13 主要结局为安全性与耐受性",
+          "status": "F",
+          "ev": "E1",
+          "note": "表 1 结局仅肌力、肥大与袖带压力；安全性不是主要结局"
+        },
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U14 次要结局为肌力、肌肉肥大、躯体功能、步态、活动能力、跌倒相关结局与心肺适能",
+          "status": "T",
+          "ev": "E0",
+          "note": "结局含肌力与肌肉肥大"
+        },
+        {
+          "unit": "Fabero-Garrido 2024",
+          "criterion": "U1 纳入对象为系统综述、Meta 分析或网络 Meta 分析",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：系统综述与Meta分析"
+        },
+        {
+          "unit": "Fabero-Garrido 2024",
+          "criterion": "U2 评价 BFR（血流限制）运动训练",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：BFR抗阻20–45%1RM或BFR步行"
+        },
+        {
+          "unit": "Fabero-Garrido 2024",
+          "criterion": "U3 目标人群为 60 岁及以上成人",
+          "status": "T",
+          "ev": "E1",
+          "note": "正文定位>60岁成人；个体<60未排除"
+        },
+        {
+          "unit": "Fabero-Garrido 2024",
+          "criterion": "U4 综述明确以老年人为目标人群",
+          "status": "T",
+          "ev": "E1",
+          "note": "正文定位>60岁成人"
+        },
+        {
+          "unit": "Fabero-Garrido 2024",
+          "criterion": "U5 综述报告的原始研究年龄信息与 ≥60 岁人群相容",
+          "status": "T",
+          "ev": "E0",
+          "note": "均龄62–71，与≥60相容；个体未排除"
+        },
+        {
+          "unit": "Fabero-Garrido 2024",
+          "criterion": "U6 仅平均年龄 ≥60 不足以判定完全直接；已知 <60、门槛 <60 或年龄报告不一致记为 indirectness",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅均龄，个体<60不能排除，不能判完全直接"
+        },
+        {
+          "unit": "Fabero-Garrido 2024",
+          "criterion": "U7 混合年龄且无法分离老年人数据者，仅归为支持/敏感性证据或单独临床亚组",
+          "status": "U",
+          "ev": "E1",
+          "note": "仅均龄，混合年龄及可分离性未报告"
+        },
+        {
+          "unit": "Fabero-Garrido 2024",
+          "criterion": "U8 排除研究方案与会议摘要",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断：已发表SR/MA，非方案/摘要"
+        },
+        {
+          "unit": "Fabero-Garrido 2024",
+          "criterion": "U9 排除叙述性综述、范围综述与非 BFR 特异性伞状综述",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：系统综述与Meta分析"
+        },
+        {
+          "unit": "Fabero-Garrido 2024",
+          "criterion": "U10 排除运动员或超出老年人边界的混合成人人群",
+          "status": "T",
+          "ev": "E1",
+          "note": "成人>60岁；非运动员或混合成人"
+        },
+        {
+          "unit": "Fabero-Garrido 2024",
+          "criterion": "U11 干预属规定的 BFR 运动类别",
+          "status": "T",
+          "ev": "E0",
+          "note": "LL-BFR抗阻或BFR步行"
+        },
+        {
+          "unit": "Fabero-Garrido 2024",
+          "criterion": "U12 对照属规定的类别（无 BFR 低负荷、高负荷、常规康复、常规照护、替代 BFR）",
+          "status": "T",
+          "ev": "E0",
+          "note": "低负荷无BFR或被动对照"
+        },
+        {
+          "unit": "Fabero-Garrido 2024",
+          "criterion": "U13 主要结局为安全性与耐受性",
+          "status": "T",
+          "ev": "E0",
+          "note": "结局含血栓/凝血生物标志物"
+        },
+        {
+          "unit": "Fabero-Garrido 2024",
+          "criterion": "U14 次要结局为肌力、肌肉肥大、躯体功能、步态、活动能力、跌倒相关结局与心肺适能",
+          "status": "F",
+          "ev": "E0",
+          "note": "结局仅生物标志物，无肌力/肥大/功能"
+        },
+        {
+          "unit": "Gronlund 2020",
+          "criterion": "U1 纳入对象为系统综述、Meta 分析或网络 Meta 分析",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：系统综述"
+        },
+        {
+          "unit": "Gronlund 2020",
+          "criterion": "U2 评价 BFR（血流限制）运动训练",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：BFR抗阻或步行"
+        },
+        {
+          "unit": "Gronlund 2020",
+          "criterion": "U3 目标人群为 60 岁及以上成人",
+          "status": "T",
+          "ev": "E0",
+          "note": "表5：参与者60–86岁"
+        },
+        {
+          "unit": "Gronlund 2020",
+          "criterion": "U4 综述明确以老年人为目标人群",
+          "status": "T",
+          "ev": "E1",
+          "note": "表5：60–86岁，generally direct"
+        },
+        {
+          "unit": "Gronlund 2020",
+          "criterion": "U5 综述报告的原始研究年龄信息与 ≥60 岁人群相容",
+          "status": "T",
+          "ev": "E0",
+          "note": "年龄60–86岁，下限≥60"
+        },
+        {
+          "unit": "Gronlund 2020",
+          "criterion": "U6 仅平均年龄 ≥60 不足以判定完全直接；已知 <60、门槛 <60 或年龄报告不一致记为 indirectness",
+          "status": "T",
+          "ev": "E0",
+          "note": "年龄范围60–86，下限≥60"
+        },
+        {
+          "unit": "Gronlund 2020",
+          "criterion": "U7 混合年龄且无法分离老年人数据者，仅归为支持/敏感性证据或单独临床亚组",
+          "status": "T",
+          "ev": "E0",
+          "note": "年龄60–86，非混合年龄"
+        },
+        {
+          "unit": "Gronlund 2020",
+          "criterion": "U8 排除研究方案与会议摘要",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断：已发表系统综述，非方案/摘要"
+        },
+        {
+          "unit": "Gronlund 2020",
+          "criterion": "U9 排除叙述性综述、范围综述与非 BFR 特异性伞状综述",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：系统综述"
+        },
+        {
+          "unit": "Gronlund 2020",
+          "criterion": "U10 排除运动员或超出老年人边界的混合成人人群",
+          "status": "T",
+          "ev": "E0",
+          "note": "60–86岁老年人群"
+        },
+        {
+          "unit": "Gronlund 2020",
+          "criterion": "U11 干预属规定的 BFR 运动类别",
+          "status": "T",
+          "ev": "E0",
+          "note": "LL抗阻或步行合并BFR"
+        },
+        {
+          "unit": "Gronlund 2020",
+          "criterion": "U12 对照属规定的类别（无 BFR 低负荷、高负荷、常规康复、常规照护、替代 BFR）",
+          "status": "T",
+          "ev": "E1",
+          "note": "无训练/LL/HL/平衡/HL-BFR；平衡按常规康复"
+        },
+        {
+          "unit": "Gronlund 2020",
+          "criterion": "U13 主要结局为安全性与耐受性",
+          "status": "U",
+          "ev": "E1",
+          "note": "未列安全性结局；AE方法不足"
+        },
+        {
+          "unit": "Gronlund 2020",
+          "criterion": "U14 次要结局为肌力、肌肉肥大、躯体功能、步态、活动能力、跌倒相关结局与心肺适能",
+          "status": "T",
+          "ev": "E0",
+          "note": "跌倒/体能/下肢力量/平衡"
+        },
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U1 纳入对象为系统综述、Meta 分析或网络 Meta 分析",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：系统综述与Meta分析"
+        },
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U2 评价 BFR（血流限制）运动训练",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：BFR步行/双任务步行/LL抗阻"
+        },
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U3 目标人群为 60 岁及以上成人",
+          "status": "T",
+          "ev": "E2",
+          "note": "纳入推断目标老年人群；实际两研究含<60"
+        },
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U4 综述明确以老年人为目标人群",
+          "status": "T",
+          "ev": "E2",
+          "note": "纳入推断目标老年人群；两研究含<60"
+        },
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U5 综述报告的原始研究年龄信息与 ≥60 岁人群相容",
+          "status": "F",
+          "ev": "E0",
+          "note": "两研究含<60岁者"
+        },
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U6 仅平均年龄 ≥60 不足以判定完全直接；已知 <60、门槛 <60 或年龄报告不一致记为 indirectness",
+          "status": "F",
+          "ev": "E0",
+          "note": "明确两研究含<60岁者"
+        },
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U7 混合年龄且无法分离老年人数据者，仅归为支持/敏感性证据或单独临床亚组",
+          "status": "U",
+          "ev": "E1",
+          "note": "两研究含<60，能否分离未报告"
+        },
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U8 排除研究方案与会议摘要",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断：已发表SR/MA，非方案/摘要"
+        },
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U9 排除叙述性综述、范围综述与非 BFR 特异性伞状综述",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：系统综述与Meta分析"
+        },
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U10 排除运动员或超出老年人边界的混合成人人群",
+          "status": "T",
+          "ev": "E0",
+          "note": "综述以老年人为目标；两项原始研究含 <60 岁者属年龄间接性，已在 U5/U6 判 F"
+        },
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U11 干预属规定的 BFR 运动类别",
+          "status": "T",
+          "ev": "E0",
+          "note": "BFR步行/双任务步行/LL抗阻"
+        },
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U12 对照属规定的类别（无 BFR 低负荷、高负荷、常规康复、常规照护、替代 BFR）",
+          "status": "T",
+          "ev": "E1",
+          "note": "步行/HL/平衡/日常活动；平衡按常规康复"
+        },
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U13 主要结局为安全性与耐受性",
+          "status": "U",
+          "ev": "E1",
+          "note": "AE判定未系统报告"
+        },
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U14 次要结局为肌力、肌肉肥大、躯体功能、步态、活动能力、跌倒相关结局与心肺适能",
+          "status": "T",
+          "ev": "E0",
+          "note": "TUG/6MWT/SPPB/步速等移动能力"
+        },
+        {
+          "unit": "Labata-Lezaun 2022",
+          "criterion": "U1 纳入对象为系统综述、Meta 分析或网络 Meta 分析",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：SR+MA；层级：支持/敏感性"
+        },
+        {
+          "unit": "Labata-Lezaun 2022",
+          "criterion": "U2 评价 BFR（血流限制）运动训练",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：BFR结合训练，多为抗阻；层级：支持/敏感性"
+        },
+        {
+          "unit": "Labata-Lezaun 2022",
+          "criterion": "U3 目标人群为 60 岁及以上成人",
+          "status": "T",
+          "ev": "E1",
+          "note": "表5均龄63.1–75.6；支持/敏感性；层级：支持/敏感性"
+        },
+        {
+          "unit": "Labata-Lezaun 2022",
+          "criterion": "U4 综述明确以老年人为目标人群",
+          "status": "T",
+          "ev": "E1",
+          "note": "表5 generally direct；支持/敏感性；层级：支持/敏感性"
+        },
+        {
+          "unit": "Labata-Lezaun 2022",
+          "criterion": "U5 综述报告的原始研究年龄信息与 ≥60 岁人群相容",
+          "status": "T",
+          "ev": "E0",
+          "note": "均龄63.1–75.6，与≥60相容；层级：支持/敏感性"
+        },
+        {
+          "unit": "Labata-Lezaun 2022",
+          "criterion": "U6 仅平均年龄 ≥60 不足以判定完全直接；已知 <60、门槛 <60 或年龄报告不一致记为 indirectness",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅均龄，个体<60未排除"
+        },
+        {
+          "unit": "Labata-Lezaun 2022",
+          "criterion": "U7 混合年龄且无法分离老年人数据者，仅归为支持/敏感性证据或单独临床亚组",
+          "status": "U",
+          "ev": "E1",
+          "note": "仅均龄，混合年龄及可分离性未报告"
+        },
+        {
+          "unit": "Labata-Lezaun 2022",
+          "criterion": "U8 排除研究方案与会议摘要",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；层级：支持/敏感性"
+        },
+        {
+          "unit": "Labata-Lezaun 2022",
+          "criterion": "U9 排除叙述性综述、范围综述与非 BFR 特异性伞状综述",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：SR+MA；支持/敏感性；层级：支持/敏感性"
+        },
+        {
+          "unit": "Labata-Lezaun 2022",
+          "criterion": "U10 排除运动员或超出老年人边界的混合成人人群",
+          "status": "T",
+          "ev": "E1",
+          "note": "generally direct；非运动员/混合成人；层级：支持/敏感性"
+        },
+        {
+          "unit": "Labata-Lezaun 2022",
+          "criterion": "U11 干预属规定的 BFR 运动类别",
+          "status": "T",
+          "ev": "E0",
+          "note": "BFR结合训练，多为抗阻，一项步行；层级：支持/敏感性"
+        },
+        {
+          "unit": "Labata-Lezaun 2022",
+          "criterion": "U12 对照属规定的类别（无 BFR 低负荷、高负荷、常规康复、常规照护、替代 BFR）",
+          "status": "T",
+          "ev": "E1",
+          "note": "HIRT/LIRT/无训练/动态平衡；层级：支持/敏感性"
+        },
+        {
+          "unit": "Labata-Lezaun 2022",
+          "criterion": "U13 主要结局为安全性与耐受性",
+          "status": "U",
+          "ev": "E1",
+          "note": "5项报告无问题；AE监测质量不清"
+        },
+        {
+          "unit": "Labata-Lezaun 2022",
+          "criterion": "U14 次要结局为肌力、肌肉肥大、躯体功能、步态、活动能力、跌倒相关结局与心肺适能",
+          "status": "T",
+          "ev": "E0",
+          "note": "肌力与体能；层级：支持/敏感性"
+        },
+        {
+          "unit": "Maciel Batista 2020",
+          "criterion": "U1 纳入对象为系统综述、Meta 分析或网络 Meta 分析",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：SR+MA；层级：支持/敏感性"
+        },
+        {
+          "unit": "Maciel Batista 2020",
+          "criterion": "U2 评价 BFR（血流限制）运动训练",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：BFR抗阻或跑台/循环步行；层级：支持/敏感性"
+        },
+        {
+          "unit": "Maciel Batista 2020",
+          "criterion": "U3 目标人群为 60 岁及以上成人",
+          "status": "T",
+          "ev": "E0",
+          "note": "表5：参与者60–84岁；层级：支持/敏感性"
+        },
+        {
+          "unit": "Maciel Batista 2020",
+          "criterion": "U4 综述明确以老年人为目标人群",
+          "status": "T",
+          "ev": "E1",
+          "note": "60–84岁老年人群；支持/敏感性；层级：支持/敏感性"
+        },
+        {
+          "unit": "Maciel Batista 2020",
+          "criterion": "U5 综述报告的原始研究年龄信息与 ≥60 岁人群相容",
+          "status": "T",
+          "ev": "E0",
+          "note": "年龄60–84岁，下限≥60；层级：支持/敏感性"
+        },
+        {
+          "unit": "Maciel Batista 2020",
+          "criterion": "U6 仅平均年龄 ≥60 不足以判定完全直接；已知 <60、门槛 <60 或年龄报告不一致记为 indirectness",
+          "status": "T",
+          "ev": "E0",
+          "note": "年龄60–84，下限≥60；层级：支持/敏感性"
+        },
+        {
+          "unit": "Maciel Batista 2020",
+          "criterion": "U7 混合年龄且无法分离老年人数据者，仅归为支持/敏感性证据或单独临床亚组",
+          "status": "T",
+          "ev": "E0",
+          "note": "年龄60–84，非混合年龄；层级：支持/敏感性"
+        },
+        {
+          "unit": "Maciel Batista 2020",
+          "criterion": "U8 排除研究方案与会议摘要",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；层级：支持/敏感性"
+        },
+        {
+          "unit": "Maciel Batista 2020",
+          "criterion": "U9 排除叙述性综述、范围综述与非 BFR 特异性伞状综述",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：SR+MA；支持/敏感性；层级：支持/敏感性"
+        },
+        {
+          "unit": "Maciel Batista 2020",
+          "criterion": "U10 排除运动员或超出老年人边界的混合成人人群",
+          "status": "T",
+          "ev": "E0",
+          "note": "60–84岁老年人群；层级：支持/敏感性"
+        },
+        {
+          "unit": "Maciel Batista 2020",
+          "criterion": "U11 干预属规定的 BFR 运动类别",
+          "status": "T",
+          "ev": "E0",
+          "note": "BFR抗阻或BFR跑台/循环步行；层级：支持/敏感性"
+        },
+        {
+          "unit": "Maciel Batista 2020",
+          "criterion": "U12 对照属规定的类别（无 BFR 低负荷、高负荷、常规康复、常规照护、替代 BFR）",
+          "status": "U",
+          "ev": "E1",
+          "note": "含上肢/拉伸对照，是否属规定类别不明"
+        },
+        {
+          "unit": "Maciel Batista 2020",
+          "criterion": "U13 主要结局为安全性与耐受性",
+          "status": "U",
+          "ev": "E1",
+          "note": "无因不适/伤害失访；被动监测"
+        },
+        {
+          "unit": "Maciel Batista 2020",
+          "criterion": "U14 次要结局为肌力、肌肉肥大、躯体功能、步态、活动能力、跌倒相关结局与心肺适能",
+          "status": "T",
+          "ev": "E0",
+          "note": "力量/肌肉量/躯体功能；层级：支持/敏感性"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U1 纳入对象为系统综述、Meta 分析或网络 Meta 分析",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：SR+MA；层级：年龄边界敏感性"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U2 评价 BFR（血流限制）运动训练",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：低强度BFR抗阻20–50%1RM；层级：年龄边界敏感性"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U3 目标人群为 60 岁及以上成人",
+          "status": "T",
+          "ev": "E0",
+          "note": "准入>65岁；层级：年龄边界敏感性"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U4 综述明确以老年人为目标人群",
+          "status": "T",
+          "ev": "E0",
+          "note": "准入>65岁；层级：年龄边界敏感性"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U5 综述报告的原始研究年龄信息与 ≥60 岁人群相容",
+          "status": "F",
+          "ev": "E0",
+          "note": "一试验59–71岁"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U6 仅平均年龄 ≥60 不足以判定完全直接；已知 <60、门槛 <60 或年龄报告不一致记为 indirectness",
+          "status": "F",
+          "ev": "E0",
+          "note": "一试验59–71，与>65门槛不一致"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U7 混合年龄且无法分离老年人数据者，仅归为支持/敏感性证据或单独临床亚组",
+          "status": "T",
+          "ev": "E0",
+          "note": "作者归为年龄边界敏感性证据；层级：年龄边界敏感性"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U8 排除研究方案与会议摘要",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；层级：年龄边界敏感性"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U9 排除叙述性综述、范围综述与非 BFR 特异性伞状综述",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：SR+MA；层级：年龄边界敏感性"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U10 排除运动员或超出老年人边界的混合成人人群",
+          "status": "T",
+          "ev": "E0",
+          "note": "综述定位非活动老年人；一项试验 59–71 岁属年龄边界问题，已在 U5/U6 判 F，U7 记分级"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U11 干预属规定的 BFR 运动类别",
+          "status": "T",
+          "ev": "E0",
+          "note": "低强度BFR抗阻20–50%1RM；层级：年龄边界敏感性"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U12 对照属规定的类别（无 BFR 低负荷、高负荷、常规康复、常规照护、替代 BFR）",
+          "status": "T",
+          "ev": "E0",
+          "note": "传统动态/高强度抗阻；层级：年龄边界敏感性"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U13 主要结局为安全性与耐受性",
+          "status": "U",
+          "ev": "E1",
+          "note": "临床AE方法不足以推断"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U14 次要结局为肌力、肌肉肥大、躯体功能、步态、活动能力、跌倒相关结局与心肺适能",
+          "status": "T",
+          "ev": "E0",
+          "note": "肌力与肌肉量；层级：年龄边界敏感性"
+        },
+        {
+          "unit": "Silva 2024",
+          "criterion": "U1 纳入对象为系统综述、Meta 分析或网络 Meta 分析",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：系统综述"
+        },
+        {
+          "unit": "Silva 2024",
+          "criterion": "U2 评价 BFR（血流限制）运动训练",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：BFR有氧/步行6周"
+        },
+        {
+          "unit": "Silva 2024",
+          "criterion": "U3 目标人群为 60 岁及以上成人",
+          "status": "T",
+          "ev": "E0",
+          "note": "两研究60–80与60–78岁"
+        },
+        {
+          "unit": "Silva 2024",
+          "criterion": "U4 综述明确以老年人为目标人群",
+          "status": "T",
+          "ev": "E1",
+          "note": "两研究年龄范围60+；核心有氧叙述"
+        },
+        {
+          "unit": "Silva 2024",
+          "criterion": "U5 综述报告的原始研究年龄信息与 ≥60 岁人群相容",
+          "status": "T",
+          "ev": "E0",
+          "note": "60–80与60–78岁，下限≥60"
+        },
+        {
+          "unit": "Silva 2024",
+          "criterion": "U6 仅平均年龄 ≥60 不足以判定完全直接；已知 <60、门槛 <60 或年龄报告不一致记为 indirectness",
+          "status": "T",
+          "ev": "E0",
+          "note": "年龄范围下限≥60"
+        },
+        {
+          "unit": "Silva 2024",
+          "criterion": "U7 混合年龄且无法分离老年人数据者，仅归为支持/敏感性证据或单独临床亚组",
+          "status": "T",
+          "ev": "E0",
+          "note": "60–80/60–78，非混合年龄"
+        },
+        {
+          "unit": "Silva 2024",
+          "criterion": "U8 排除研究方案与会议摘要",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断：已发表系统综述，非方案/摘要"
+        },
+        {
+          "unit": "Silva 2024",
+          "criterion": "U9 排除叙述性综述、范围综述与非 BFR 特异性伞状综述",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：系统综述"
+        },
+        {
+          "unit": "Silva 2024",
+          "criterion": "U10 排除运动员或超出老年人边界的混合成人人群",
+          "status": "T",
+          "ev": "E0",
+          "note": "60–80/60–78岁老年人群"
+        },
+        {
+          "unit": "Silva 2024",
+          "criterion": "U11 干预属规定的 BFR 运动类别",
+          "status": "T",
+          "ev": "E0",
+          "note": "BFR有氧/步行"
+        },
+        {
+          "unit": "Silva 2024",
+          "criterion": "U12 对照属规定的类别（无 BFR 低负荷、高负荷、常规康复、常规照护、替代 BFR）",
+          "status": "T",
+          "ev": "E0",
+          "note": "有氧无BFR或无训练"
+        },
+        {
+          "unit": "Silva 2024",
+          "criterion": "U13 主要结局为安全性与耐受性",
+          "status": "F",
+          "ev": "E1",
+          "note": "无汇总或系统临床安全评估"
+        },
+        {
+          "unit": "Silva 2024",
+          "criterion": "U14 次要结局为肌力、肌肉肥大、躯体功能、步态、活动能力、跌倒相关结局与心肺适能",
+          "status": "T",
+          "ev": "E0",
+          "note": "心肺适能与功能能力"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U1 纳入对象为系统综述、Meta 分析或网络 Meta 分析",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：SR（叙述性合成）；层级：单独临床亚组"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U2 评价 BFR（血流限制）运动训练",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：术前BFR训练/预康复；层级：单独临床亚组"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U3 目标人群为 60 岁及以上成人",
+          "status": "T",
+          "ev": "E0",
+          "note": "综述均龄 67.0 岁，目标为老年 TKA 人群；一项试验门槛 ≥50 岁留在 U5/U6"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U4 综述明确以老年人为目标人群",
+          "status": "U",
+          "ev": "E1",
+          "note": "TKA康复人群，未明确以老年人为目标"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U5 综述报告的原始研究年龄信息与 ≥60 岁人群相容",
+          "status": "F",
+          "ev": "E0",
+          "note": "一试验门槛≥50岁"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U6 仅平均年龄 ≥60 不足以判定完全直接；已知 <60、门槛 <60 或年龄报告不一致记为 indirectness",
+          "status": "F",
+          "ev": "E0",
+          "note": "一试验门槛≥50岁"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U7 混合年龄且无法分离老年人数据者，仅归为支持/敏感性证据或单独临床亚组",
+          "status": "T",
+          "ev": "E0",
+          "note": "作者归为临床亚组；层级：单独临床亚组"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U8 排除研究方案与会议摘要",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；层级：单独临床亚组"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U9 排除叙述性综述、范围综述与非 BFR 特异性伞状综述",
+          "status": "T",
+          "ev": "E0",
+          "note": "表1：系统综述（叙述性合成）；层级：单独临床亚组"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U10 排除运动员或超出老年人边界的混合成人人群",
+          "status": "T",
+          "ev": "E0",
+          "note": "TKA 术前康复临床亚组，不是混合成人人群；≥50 岁问题留在 U5/U6"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U11 干预属规定的 BFR 运动类别",
+          "status": "T",
+          "ev": "E0",
+          "note": "术前BFR训练（骑行/抗阻）；层级：单独临床亚组"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U12 对照属规定的类别（无 BFR 低负荷、高负荷、常规康复、常规照护、替代 BFR）",
+          "status": "T",
+          "ev": "E0",
+          "note": "常规照护/假BFR/低负荷无BFR；层级：单独临床亚组"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U13 主要结局为安全性与耐受性",
+          "status": "T",
+          "ev": "E0",
+          "note": "结局含不良事件/安全性；层级：单独临床亚组"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U14 次要结局为肌力、肌肉肥大、躯体功能、步态、活动能力、跌倒相关结局与心肺适能",
+          "status": "T",
+          "ev": "E0",
+          "note": "肌力与功能表现；层级：单独临床亚组"
+        }
+      ],
+      "narrative": "Chen 2026 的 126 个格子中 T 103、F 9、U 14，未知负载 11.1%。F 集中在 U5/U6（原始研究年龄与 ≥60 不相容：Hsieh 两项含 <60 岁、Rodrigo 一项 59–71 岁、Tiss 一项门槛 ≥50 岁）与 U13/U14（安全性或次要结局不匹配）。U 集中在 U6/U7（仅报告均龄、个体年龄与可分离性不明）与 U13（不良事件监测不足）。本案例的关键发现不在 T/F/U 本身，而在三值之外的“层级”：9 篇综述中 4 篇被作者归为支持/敏感性、年龄边界敏感性或单独临床亚组。层级不是资格违反，也不是未知，而是资格之后的证据定位；三值逻辑可以判资格，但不能表达层级，需要单独一列。",
+      "design": "伞状综述",
+      "tiers": {
+        "Fabero-Garrido 2022": "核心定量",
+        "Fabero-Garrido 2024": "核心定量",
+        "Gronlund 2020": "核心叙述/证据缺口",
+        "Hsieh 2024": "核心定量",
+        "Labata-Lezaun 2022": "支持/敏感性",
+        "Maciel Batista 2020": "支持/敏感性",
+        "Rodrigo-Mallorca 2021": "年龄边界敏感性",
+        "Silva 2024": "核心叙述（有氧）",
+        "Tiss 2025": "单独临床亚组"
+      },
+      "counts": {
+        "T": 103,
+        "U": 14,
+        "F": 9
+      }
+    },
+    "verification": {
+      "case": "Chen 2026 BFR 伞状综述",
+      "checked": 126,
+      "issues": [
+        {
+          "unit": "Hsieh 2024",
+          "criterion": "U10 排除运动员或超出老年人边界的混合成人人群",
+          "current": "F",
+          "suggested": "T（或 S，保留 U5/U6 的年龄间接性判定）",
+          "problem": "原文将 Hsieh 定位为老年人移动能力的核心证据（标题与纳入均为 older adults），只说明两项原始研究含 <60 岁者；这属于年龄适用性间接性，已在 U5/U6 判 F。U10 是综述层面的“混合成人人群”排除条件，Hsieh 并非混合成人人群综述，且 U3/U4 判 T 与 U10 判 F 自相矛盾。F 属过度推断。",
+          "severity": "medium"
+        },
+        {
+          "unit": "Rodrigo-Mallorca 2021",
+          "criterion": "U10 排除运动员或超出老年人边界的混合成人人群",
+          "current": "F",
+          "suggested": "S（年龄边界敏感性）或 T",
+          "problem": "Rodrigo-Mallorca 的标题与定位为 non-active older adults，仅一项试验 59–71 岁；该年龄准入不一致已由 U5/U6 判 F、U7 判 S（年龄边界敏感性）。U10 的“混合成人人群”是综述层面条件，F 属过度推断。",
+          "severity": "medium"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U10 排除运动员或超出老年人边界的混合成人人群",
+          "current": "F",
+          "suggested": "S（临床亚组）",
+          "problem": "Tiss 是 TKA 术前康复的临床亚组，不是“混合成人人群”；一项试验准入 ≥50 岁属年龄边界问题，已由 U5/U6 判 F、U7 判 S（临床亚组）。U10 F 属过度推断，且与其临床亚组定位不符。",
+          "severity": "medium"
+        },
+        {
+          "unit": "Tiss 2025",
+          "criterion": "U3 目标人群为 60 岁及以上成人",
+          "current": "F",
+          "suggested": "U（或 T，若按综述均龄 67.0 岁判断）",
+          "problem": "原文只说明一项纳入试验的准入阈值为 ≥50 岁；Table 5 同时给出综述均龄 67.0 岁、原始研究均龄 63.5–73.0 岁，并定位为 clinically indirect，并未说明综述目标人群不是 60+。以单项试验阈值判 U3 为 F 属过度推断；≥50 岁问题应留在 U5/U6。",
+          "severity": "medium"
+        },
+        {
+          "unit": "Fabero-Garrido 2022",
+          "criterion": "U13 主要结局为安全性与耐受性",
+          "current": "U",
+          "suggested": "F（或改写 note 后保留 U）",
+          "problem": "note 写“非主要结局”，Table 1 的 Outcomes 仅列肌力、肌肉肥大与袖带压力亚组，未列安全性；若已判定安全性非主要结局，U13 应为 F。当前 U 与 note 自相矛盾，属状态与措辞不一致。",
+          "severity": "low"
+        }
+      ]
+    }
+  },
+  "floating_hip_ipd": {
+    "audit": {
+      "case": "floating_hip_ipd",
+      "units": [
+        "Bishop",
+        "Liu",
+        "Perumal",
+        "Cannada",
+        "Hammad",
+        "Meena",
+        "Wong",
+        "Yang",
+        "Liebergall",
+        "Zamora-Navas",
+        "Siavashi",
+        "Cech"
+      ],
+      "criteria": [
+        "I1 设计为病例对照、回顾性队列或前瞻性研究",
+        "I2 股骨与髋臼同侧、同时发生的创伤性骨折",
+        "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+        "I4 排除系统综述/meta 分析、范围综述、病例报告、尸体研究、生物力学研究",
+        "I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+        "I6 排除病理性骨折、肿瘤或感染性疾病、慢性损伤患者",
+        "I7 IPD 分析仅纳入在正文或表格中报告逐例患者数据的研究"
+      ],
+      "cells": [
+        {
+          "unit": "Bishop",
+          "criterion": "I1 设计为病例对照、回顾性队列或前瞻性研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；摘要称回顾性队列，结果称病例系列"
+        },
+        {
+          "unit": "Bishop",
+          "criterion": "I2 股骨与髋臼同侧、同时发生的创伤性骨折",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；股骨+髋臼同侧同时骨折"
+        },
+        {
+          "unit": "Bishop",
+          "criterion": "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+          "status": "T",
+          "ev": "E2",
+          "note": "表2有Letournel髋臼分类及AO股骨分类"
+        },
+        {
+          "unit": "Bishop",
+          "criterion": "I4 排除系统综述/meta 分析、范围综述、病例报告、尸体研究、生物力学研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；按病例系列纳入，非排除设计"
+        },
+        {
+          "unit": "Bishop",
+          "criterion": "I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；未见type A混入记录"
+        },
+        {
+          "unit": "Bishop",
+          "criterion": "I6 排除病理性骨折、肿瘤或感染性疾病、慢性损伤患者",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；表内无此类人群记录"
+        },
+        {
+          "unit": "Bishop",
+          "criterion": "I7 IPD 分析仅纳入在正文或表格中报告逐例患者数据的研究",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅称7/12项有逐例数据（112例），未列名单"
+        },
+        {
+          "unit": "Liu",
+          "criterion": "I1 设计为病例对照、回顾性队列或前瞻性研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；摘要称回顾性队列，结果称病例系列"
+        },
+        {
+          "unit": "Liu",
+          "criterion": "I2 股骨与髋臼同侧、同时发生的创伤性骨折",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；股骨+髋臼同侧同时骨折"
+        },
+        {
+          "unit": "Liu",
+          "criterion": "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+          "status": "T",
+          "ev": "E2",
+          "note": "表2有Letournel髋臼分类及AO股骨分类"
+        },
+        {
+          "unit": "Liu",
+          "criterion": "I4 排除系统综述/meta 分析、范围综述、病例报告、尸体研究、生物力学研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；按病例系列纳入，非排除设计"
+        },
+        {
+          "unit": "Liu",
+          "criterion": "I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；未见type A混入记录"
+        },
+        {
+          "unit": "Liu",
+          "criterion": "I6 排除病理性骨折、肿瘤或感染性疾病、慢性损伤患者",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；表内无此类人群记录"
+        },
+        {
+          "unit": "Liu",
+          "criterion": "I7 IPD 分析仅纳入在正文或表格中报告逐例患者数据的研究",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅称7/12项有逐例数据（112例），未列名单"
+        },
+        {
+          "unit": "Perumal",
+          "criterion": "I1 设计为病例对照、回顾性队列或前瞻性研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；摘要称回顾性队列，结果称病例系列"
+        },
+        {
+          "unit": "Perumal",
+          "criterion": "I2 股骨与髋臼同侧、同时发生的创伤性骨折",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；股骨+髋臼同侧同时骨折"
+        },
+        {
+          "unit": "Perumal",
+          "criterion": "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+          "status": "T",
+          "ev": "E1",
+          "note": "表 2 髋臼栏全为缺失；正文仅汇总称 10 项用 Letournel、其余用 AO（未点名）；AO 62A/62B/62C 合计 47 例，较 Perumal 23 + Hammad 27 = 50 例少 3 例，属综述层面推断"
+        },
+        {
+          "unit": "Perumal",
+          "criterion": "I4 排除系统综述/meta 分析、范围综述、病例报告、尸体研究、生物力学研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；按病例系列纳入，非排除设计"
+        },
+        {
+          "unit": "Perumal",
+          "criterion": "I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；未见type A混入记录"
+        },
+        {
+          "unit": "Perumal",
+          "criterion": "I6 排除病理性骨折、肿瘤或感染性疾病、慢性损伤患者",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；表内无此类人群记录"
+        },
+        {
+          "unit": "Perumal",
+          "criterion": "I7 IPD 分析仅纳入在正文或表格中报告逐例患者数据的研究",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅称7/12项有逐例数据（112例），未列名单"
+        },
+        {
+          "unit": "Cannada",
+          "criterion": "I1 设计为病例对照、回顾性队列或前瞻性研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；摘要称回顾性队列，结果称病例系列"
+        },
+        {
+          "unit": "Cannada",
+          "criterion": "I2 股骨与髋臼同侧、同时发生的创伤性骨折",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；股骨+髋臼同侧同时骨折"
+        },
+        {
+          "unit": "Cannada",
+          "criterion": "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+          "status": "T",
+          "ev": "E2",
+          "note": "表2有Letournel髋臼分类及AO股骨分类"
+        },
+        {
+          "unit": "Cannada",
+          "criterion": "I4 排除系统综述/meta 分析、范围综述、病例报告、尸体研究、生物力学研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；按病例系列纳入，非排除设计"
+        },
+        {
+          "unit": "Cannada",
+          "criterion": "I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；未见type A混入记录"
+        },
+        {
+          "unit": "Cannada",
+          "criterion": "I6 排除病理性骨折、肿瘤或感染性疾病、慢性损伤患者",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；表内无此类人群记录"
+        },
+        {
+          "unit": "Cannada",
+          "criterion": "I7 IPD 分析仅纳入在正文或表格中报告逐例患者数据的研究",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅称7/12项有逐例数据（112例），未列名单"
+        },
+        {
+          "unit": "Hammad",
+          "criterion": "I1 设计为病例对照、回顾性队列或前瞻性研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；摘要称回顾性队列，结果称病例系列"
+        },
+        {
+          "unit": "Hammad",
+          "criterion": "I2 股骨与髋臼同侧、同时发生的创伤性骨折",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；股骨+髋臼同侧同时骨折"
+        },
+        {
+          "unit": "Hammad",
+          "criterion": "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+          "status": "T",
+          "ev": "E1",
+          "note": "表 2 髋臼栏全为缺失；正文仅汇总称 10 项用 Letournel、其余用 AO（未点名）；AO 62A/62B/62C 合计 47 例，较 Perumal 23 + Hammad 27 = 50 例少 3 例，属综述层面推断"
+        },
+        {
+          "unit": "Hammad",
+          "criterion": "I4 排除系统综述/meta 分析、范围综述、病例报告、尸体研究、生物力学研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；按病例系列纳入，非排除设计"
+        },
+        {
+          "unit": "Hammad",
+          "criterion": "I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；未见type A混入记录"
+        },
+        {
+          "unit": "Hammad",
+          "criterion": "I6 排除病理性骨折、肿瘤或感染性疾病、慢性损伤患者",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；表内无此类人群记录"
+        },
+        {
+          "unit": "Hammad",
+          "criterion": "I7 IPD 分析仅纳入在正文或表格中报告逐例患者数据的研究",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅称7/12项有逐例数据（112例），未列名单"
+        },
+        {
+          "unit": "Meena",
+          "criterion": "I1 设计为病例对照、回顾性队列或前瞻性研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；摘要称回顾性队列，结果称病例系列"
+        },
+        {
+          "unit": "Meena",
+          "criterion": "I2 股骨与髋臼同侧、同时发生的创伤性骨折",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；股骨+髋臼同侧同时骨折"
+        },
+        {
+          "unit": "Meena",
+          "criterion": "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+          "status": "T",
+          "ev": "E2",
+          "note": "表2有Letournel髋臼分类及AO股骨分类"
+        },
+        {
+          "unit": "Meena",
+          "criterion": "I4 排除系统综述/meta 分析、范围综述、病例报告、尸体研究、生物力学研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；按病例系列纳入，非排除设计"
+        },
+        {
+          "unit": "Meena",
+          "criterion": "I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；未见type A混入记录"
+        },
+        {
+          "unit": "Meena",
+          "criterion": "I6 排除病理性骨折、肿瘤或感染性疾病、慢性损伤患者",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；表内无此类人群记录"
+        },
+        {
+          "unit": "Meena",
+          "criterion": "I7 IPD 分析仅纳入在正文或表格中报告逐例患者数据的研究",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅称7/12项有逐例数据（112例），未列名单"
+        },
+        {
+          "unit": "Wong",
+          "criterion": "I1 设计为病例对照、回顾性队列或前瞻性研究",
+          "status": "T",
+          "ev": "E2",
+          "note": "明确标注病例对照研究"
+        },
+        {
+          "unit": "Wong",
+          "criterion": "I2 股骨与髋臼同侧、同时发生的创伤性骨折",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；14例浮动髋为病例组"
+        },
+        {
+          "unit": "Wong",
+          "criterion": "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+          "status": "T",
+          "ev": "E2",
+          "note": "表2有Letournel髋臼分类及AO股骨分类"
+        },
+        {
+          "unit": "Wong",
+          "criterion": "I4 排除系统综述/meta 分析、范围综述、病例报告、尸体研究、生物力学研究",
+          "status": "T",
+          "ev": "E2",
+          "note": "病例对照研究，非排除设计"
+        },
+        {
+          "unit": "Wong",
+          "criterion": "I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；病例组type B，对照无股骨骨折"
+        },
+        {
+          "unit": "Wong",
+          "criterion": "I6 排除病理性骨折、肿瘤或感染性疾病、慢性损伤患者",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；表内无此类人群记录"
+        },
+        {
+          "unit": "Wong",
+          "criterion": "I7 IPD 分析仅纳入在正文或表格中报告逐例患者数据的研究",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅称7/12项有逐例数据（112例），未列名单"
+        },
+        {
+          "unit": "Yang",
+          "criterion": "I1 设计为病例对照、回顾性队列或前瞻性研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；摘要称回顾性队列，结果称病例系列"
+        },
+        {
+          "unit": "Yang",
+          "criterion": "I2 股骨与髋臼同侧、同时发生的创伤性骨折",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；股骨+髋臼同侧同时骨折"
+        },
+        {
+          "unit": "Yang",
+          "criterion": "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+          "status": "T",
+          "ev": "E2",
+          "note": "表2有Letournel髋臼分类及AO股骨分类"
+        },
+        {
+          "unit": "Yang",
+          "criterion": "I4 排除系统综述/meta 分析、范围综述、病例报告、尸体研究、生物力学研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；按病例系列纳入，非排除设计"
+        },
+        {
+          "unit": "Yang",
+          "criterion": "I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；未见type A混入记录"
+        },
+        {
+          "unit": "Yang",
+          "criterion": "I6 排除病理性骨折、肿瘤或感染性疾病、慢性损伤患者",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；表内无此类人群记录"
+        },
+        {
+          "unit": "Yang",
+          "criterion": "I7 IPD 分析仅纳入在正文或表格中报告逐例患者数据的研究",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅称7/12项有逐例数据（112例），未列名单"
+        },
+        {
+          "unit": "Liebergall",
+          "criterion": "I1 设计为病例对照、回顾性队列或前瞻性研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；摘要称回顾性队列，结果称病例系列"
+        },
+        {
+          "unit": "Liebergall",
+          "criterion": "I2 股骨与髋臼同侧、同时发生的创伤性骨折",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；股骨+髋臼同侧同时骨折"
+        },
+        {
+          "unit": "Liebergall",
+          "criterion": "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+          "status": "T",
+          "ev": "E2",
+          "note": "表2有Letournel髋臼分类及AO股骨分类"
+        },
+        {
+          "unit": "Liebergall",
+          "criterion": "I4 排除系统综述/meta 分析、范围综述、病例报告、尸体研究、生物力学研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；按病例系列纳入，非排除设计"
+        },
+        {
+          "unit": "Liebergall",
+          "criterion": "I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；未见type A混入记录"
+        },
+        {
+          "unit": "Liebergall",
+          "criterion": "I6 排除病理性骨折、肿瘤或感染性疾病、慢性损伤患者",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；表内无此类人群记录"
+        },
+        {
+          "unit": "Liebergall",
+          "criterion": "I7 IPD 分析仅纳入在正文或表格中报告逐例患者数据的研究",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅称7/12项有逐例数据（112例），未列名单"
+        },
+        {
+          "unit": "Zamora-Navas",
+          "criterion": "I1 设计为病例对照、回顾性队列或前瞻性研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；摘要称回顾性队列，结果称病例系列"
+        },
+        {
+          "unit": "Zamora-Navas",
+          "criterion": "I2 股骨与髋臼同侧、同时发生的创伤性骨折",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；股骨+髋臼同侧同时骨折"
+        },
+        {
+          "unit": "Zamora-Navas",
+          "criterion": "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+          "status": "T",
+          "ev": "E2",
+          "note": "表2有Letournel髋臼分类及AO股骨分类"
+        },
+        {
+          "unit": "Zamora-Navas",
+          "criterion": "I4 排除系统综述/meta 分析、范围综述、病例报告、尸体研究、生物力学研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；按病例系列纳入，非排除设计"
+        },
+        {
+          "unit": "Zamora-Navas",
+          "criterion": "I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；未见type A混入记录"
+        },
+        {
+          "unit": "Zamora-Navas",
+          "criterion": "I6 排除病理性骨折、肿瘤或感染性疾病、慢性损伤患者",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；表内无此类人群记录"
+        },
+        {
+          "unit": "Zamora-Navas",
+          "criterion": "I7 IPD 分析仅纳入在正文或表格中报告逐例患者数据的研究",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅称7/12项有逐例数据（112例），未列名单"
+        },
+        {
+          "unit": "Siavashi",
+          "criterion": "I1 设计为病例对照、回顾性队列或前瞻性研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；摘要称回顾性队列，结果称病例系列"
+        },
+        {
+          "unit": "Siavashi",
+          "criterion": "I2 股骨与髋臼同侧、同时发生的创伤性骨折",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；11例中提取4例，均有髋臼+股骨骨折"
+        },
+        {
+          "unit": "Siavashi",
+          "criterion": "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+          "status": "T",
+          "ev": "E2",
+          "note": "表2有Letournel髋臼分类及AO股骨分类"
+        },
+        {
+          "unit": "Siavashi",
+          "criterion": "I4 排除系统综述/meta 分析、范围综述、病例报告、尸体研究、生物力学研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；按病例系列纳入，非排除设计"
+        },
+        {
+          "unit": "Siavashi",
+          "criterion": "I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+          "status": "U",
+          "ev": "E1",
+          "note": "原文11例仅提取4例，余例是否type A未说明"
+        },
+        {
+          "unit": "Siavashi",
+          "criterion": "I6 排除病理性骨折、肿瘤或感染性疾病、慢性损伤患者",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；表内无此类人群记录"
+        },
+        {
+          "unit": "Siavashi",
+          "criterion": "I7 IPD 分析仅纳入在正文或表格中报告逐例患者数据的研究",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅称7/12项有逐例数据（112例），未列名单"
+        },
+        {
+          "unit": "Cech",
+          "criterion": "I1 设计为病例对照、回顾性队列或前瞻性研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；摘要称回顾性队列，结果称病例系列"
+        },
+        {
+          "unit": "Cech",
+          "criterion": "I2 股骨与髋臼同侧、同时发生的创伤性骨折",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；69例中提取3例，均有髋臼+股骨骨折"
+        },
+        {
+          "unit": "Cech",
+          "criterion": "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+          "status": "T",
+          "ev": "E2",
+          "note": "表2有Letournel髋臼分类及AO股骨分类"
+        },
+        {
+          "unit": "Cech",
+          "criterion": "I4 排除系统综述/meta 分析、范围综述、病例报告、尸体研究、生物力学研究",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；按病例系列纳入，非排除设计"
+        },
+        {
+          "unit": "Cech",
+          "criterion": "I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+          "status": "U",
+          "ev": "E1",
+          "note": "原文69例仅提取3例，余例是否type A未说明"
+        },
+        {
+          "unit": "Cech",
+          "criterion": "I6 排除病理性骨折、肿瘤或感染性疾病、慢性损伤患者",
+          "status": "T",
+          "ev": "E1",
+          "note": "纳入推断；表内无此类人群记录"
+        },
+        {
+          "unit": "Cech",
+          "criterion": "I7 IPD 分析仅纳入在正文或表格中报告逐例患者数据的研究",
+          "status": "U",
+          "ev": "E0",
+          "note": "仅称7/12项有逐例数据（112例），未列名单"
+        }
+      ],
+      "narrative": "Lixa 2026 的 84 个格子中 T 70、U 14，无 F，未知负载 16.7%。14 个 U 集中在两处。第一，I7（IPD 分析仅纳入报告逐例数据的研究）在 12 项研究上全部为 U：综述只称 7/12 项、112/271 例进入 IPD 分析，却没有列出这 7 项研究的名单，因此无法把“是否进入 IPD”映射到具体研究。第二，I5（type A 病例能否分离）在 Siavashi 与 Cech 两项为 U：原文分别只从 11 例和 69 例中提取 4 例和 3 例，其余病例是否为 type A 未说明。这两处都不是规则缺失，而是逐研究事实缺失；IPD 审计的关键标准恰好最不可审计。",
+      "design": "观察性（IPD）",
+      "counts": {
+        "T": 70,
+        "U": 14
+      }
+    },
+    "verification": {
+      "case": "Lixa 2026 浮动髋 IPD",
+      "checked": 84,
+      "issues": [
+        {
+          "unit": "Cannada",
+          "criterion": "I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究",
+          "current": "status=T，ev=E1，note=纳入推断；未见type A混入记录；但该格 criterion 字段写作「I5 DN排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究」",
+          "suggested": "将 criterion 改为「I5 排除含浮动髋 type A 病例且无法获得仅 type B 数据的研究」（删去「DN」），status、ev、note 可维持不变",
+          "problem": "Cannada 的 I5 判定格 criterion 多出「DN」前缀，与 criteria 数组及其他 11 个单元的 I5 字符串不一致。按 criterion 字符串分组时，该格会被当成独立标准，I5 不再是 12 个单元，单元×标准矩阵不再是完整的 12×7，也会影响「84 个判定单元」的汇总口径。",
+          "severity": "medium"
+        },
+        {
+          "unit": "Perumal",
+          "criterion": "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+          "current": "status=T，ev=E1，note=表2髋臼栏全为'-'；正文称其余2项用AO分类",
+          "suggested": "保留 T 或降为 U；若保留 T，note 改为「表2未列Perumal髋臼分型；正文仅汇总称10项用Letournel、其余用AO（未点名）；AO 62A/62B/62C合计47例，较Perumal 23+Hammad 27=50例少3例，属综述层面推断」",
+          "problem": "T 的依据是综述汇总句而非表中逐研究事实：Table 2 的 Perumal 髋臼栏全为缺失（'-'），正文只说「the remaining used the AO classification」，未点名 Perumal，也未写「2项」；「2项」是由「10 studies used Letournel」与表2中恰好10列有髋臼数据推算出来的。且正文 AO 分型 10+23+14=47 例，与 Perumal 23 例 + Hammad 27 例 = 50 例相差 3 例，说明这 50 例并非全部有 AO 分型。note 直接写「其余2项用AO分类」会让读者以为逐研究分型已核实，应标明这是汇总推断并注明 47≠50。",
+          "severity": "low"
+        },
+        {
+          "unit": "Hammad",
+          "criterion": "I3 报告髋臼骨折分类（AO 或 Letournel）与股骨骨折分类（AO）",
+          "current": "status=T，ev=E1，note=表2髋臼栏全为'-'；正文称其余2项用AO分类",
+          "suggested": "保留 T 或降为 U；若保留 T，note 改为「表2未列Hammad髋臼分型；正文仅汇总称10项用Letournel、其余用AO（未点名）；AO 62A/62B/62C合计47例，较Perumal 23+Hammad 27=50例少3例，属综述层面推断」",
+          "problem": "与 Perumal 同一问题：Table 2 的 Hammad 髋臼栏全为缺失（'-'），正文仅以汇总句称其余研究使用 AO 分类，未点名 Hammad；AO 分型合计 47 例与两项研究合计 50 例相差 3 例。T 属综述层面推断而非表中逐研究事实，note 应标明推断性质及 47≠50 的缺口。",
+          "severity": "low"
+        }
+      ]
+    }
+  }
+}

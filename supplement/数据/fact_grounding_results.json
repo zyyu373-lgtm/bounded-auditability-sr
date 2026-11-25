@@ -1,0 +1,175 @@
+{
+  "protocol": {
+    "levels": {
+      "E0": "题名",
+      "E1": "摘要",
+      "E2": "全文",
+      "E3": "作者/协议"
+    },
+    "rule": "冲突证据等级 = 最低前提等级；E0 为 PROVISIONAL，E1 及以上为 VERIFIED；被更高等级事实否定者为 RETRACTED。"
+  },
+  "facts": [
+    {
+      "ref": "22",
+      "criterion": "T1",
+      "predicate": "Treatment",
+      "value": "chemoradiotherapy",
+      "level": "E0",
+      "source": "题名",
+      "status": "TITLE_ONLY",
+      "note": "题名明确为 chemoradiation；未核对摘要。",
+      "level_name": "题名",
+      "level_order": 0
+    },
+    {
+      "ref": "24",
+      "criterion": "P4",
+      "predicate": "Population",
+      "value": "egfr_mutant_only",
+      "level": "E1",
+      "source": "PubMed 摘要 PMID 29502374",
+      "status": "VERIFIED",
+      "note": "86 例ⅢA 期 EGFR 突变型肺腺癌，全部为 EGFR 突变。",
+      "level_name": "摘要",
+      "level_order": 1
+    },
+    {
+      "ref": "24",
+      "criterion": "T2",
+      "predicate": "Treatment",
+      "value": "molecular_targeted_therapy",
+      "level": "E1",
+      "source": "PubMed 摘要 PMID 29502374",
+      "status": "VERIFIED",
+      "note": "厄洛替尼 vs 培美曲塞＋顺铂。",
+      "level_name": "摘要",
+      "level_order": 1
+    },
+    {
+      "ref": "31",
+      "criterion": "P4",
+      "predicate": "Population",
+      "value": "egfr_mutant_only",
+      "level": "E0",
+      "source": "题名（修正前）",
+      "status": "RETRACTED",
+      "note": "摘要显示 15 例 EGFR 突变 + 16 例野生型；P4 撤回。",
+      "level_name": "题名",
+      "level_order": 0
+    },
+    {
+      "ref": "31",
+      "criterion": "T2",
+      "predicate": "Treatment",
+      "value": "molecular_targeted_therapy",
+      "level": "E1",
+      "source": "Crossref 摘要 DOI 10.1177/0300060519887275",
+      "status": "VERIFIED",
+      "note": "厄洛替尼用于 EGFR 突变亚组；T2 成立。",
+      "level_name": "摘要",
+      "level_order": 1
+    },
+    {
+      "ref": "33",
+      "criterion": "T2",
+      "predicate": "Treatment",
+      "value": "molecular_targeted_therapy",
+      "level": "E0",
+      "source": "题名",
+      "status": "TITLE_ONLY",
+      "note": "题名为抗血管生成治疗；eTable 3 提取化疗臂。",
+      "level_name": "题名",
+      "level_order": 0
+    },
+    {
+      "ref": "35",
+      "criterion": "P4",
+      "predicate": "Population",
+      "value": "egfr_mutant_only",
+      "level": "E1",
+      "source": "JCO 摘要 DOI 10.1200/JCO.19.00075",
+      "status": "VERIFIED",
+      "note": "ⅢA-N2 NSCLC，EGFR 外显子 19 或 21 突变。",
+      "level_name": "摘要",
+      "level_order": 1
+    },
+    {
+      "ref": "35",
+      "criterion": "T2",
+      "predicate": "Treatment",
+      "value": "molecular_targeted_therapy",
+      "level": "E1",
+      "source": "JCO 摘要",
+      "status": "VERIFIED",
+      "note": "厄洛替尼 vs 吉西他滨＋顺铂。",
+      "level_name": "摘要",
+      "level_order": 1
+    },
+    {
+      "ref": "36",
+      "criterion": "P4",
+      "predicate": "Population",
+      "value": "egfr_mutant_only",
+      "level": "E1",
+      "source": "STTT 摘要 DOI 10.1038/s41392-022-01286-3",
+      "status": "VERIFIED",
+      "note": "EGFR 敏感突变，R0 切除ⅢA-N2 NSCLC。",
+      "level_name": "摘要",
+      "level_order": 1
+    },
+    {
+      "ref": "36",
+      "criterion": "T2",
+      "predicate": "Treatment",
+      "value": "molecular_targeted_therapy",
+      "level": "E1",
+      "source": "STTT 摘要",
+      "status": "VERIFIED",
+      "note": "厄洛替尼 vs GC。",
+      "level_name": "摘要",
+      "level_order": 1
+    },
+    {
+      "ref": "42",
+      "criterion": "T2",
+      "predicate": "Treatment",
+      "value": "molecular_targeted_therapy",
+      "level": "E0",
+      "source": "题名",
+      "status": "TITLE_ONLY",
+      "note": "术后厄洛替尼；T2 解释待定。",
+      "level_name": "题名",
+      "level_order": 0
+    },
+    {
+      "ref": "46",
+      "criterion": "D2",
+      "predicate": "Design",
+      "value": "observational",
+      "level": "E0",
+      "source": "题名",
+      "status": "TITLE_ONLY",
+      "note": "题名明确为 observational；未核对摘要/全文。",
+      "level_name": "题名",
+      "level_order": 0
+    }
+  ],
+  "summary": {
+    "current_conflicts": 11,
+    "verified": 7,
+    "title_only": 4,
+    "retracted": 1,
+    "verified_items": [
+      "24",
+      "31",
+      "35",
+      "36"
+    ],
+    "title_only_items": [
+      "22",
+      "33",
+      "42",
+      "46"
+    ]
+  }
+}
